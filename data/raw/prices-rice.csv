@@ -1,0 +1,378 @@
+﻿ADD,EPA,District ,Market,Month,Year,Commodity,Price
+Karonga,Misuku,Chitipa,Misuku,January,2024,Rice,1369.19
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Rice,
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Rice,
+Karonga,Mpata,Karonga,Karonga,January,2024,Rice,1667.45
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Rice,1713.21
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Rice,
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Rice,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,January,2024,Rice,2288.9
+Mzuzu,Kazomba,Mzimba South,Mzimba,January,2024,Rice,
+Mzuzu,Mbawa,Mzimba South,Embangweni,January,2024,Rice,
+Mzuzu,Champhira,Mzimba South,Jenda,January,2024,Rice,
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,January,2024,Rice,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,January,2024,Rice,1221.34
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,January,2024,Rice,1828.71
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Rice,1600
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Rice,1900
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Rice,
+Salima,Tembwe,Salima,Salima,January,2024,Rice,1900
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Rice,
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Rice,
+Kasungu,Nachisaka,Dowa East,Dowa,January,2024,Rice,
+Kasungu,Mponela,Dowa West,Mponela,January,2024,Rice,
+Kasungu,Madisi,Dowa West,Madisi,January,2024,Rice,
+Kasungu,Bowe,Dowa West,Bowe,January,2024,Rice,
+Kasungu,Nambuma,Dowa West,Nambuma,January,2024,Rice,
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Rice,
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Rice,2000
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Rice,2200
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Rice,2000
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Rice,2000
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Rice,
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Rice,
+Lilongwe,Chilaza,Lilongwe West,Msundwe,January,2024,Rice,
+Lilongwe,Demera,Lilongwe West,Kasiya,January,2024,Rice,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,January,2024,Rice,
+Lilongwe,Mitundu,Lilongwe West,Mitundu,January,2024,Rice,2200
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,January,2024,Rice,
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,January,2024,Rice,
+Lilongwe,Lobi,Dedza,Thete,January,2024,Rice,2000
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Rice,1440
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Rice,2000.17
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Rice,2000
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Rice,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Rice,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Rice,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Rice,
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Rice,
+Machinga,Bazale,Balaka,Balaka,January,2024,Rice,2029.09
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Rice,
+Machinga,Mpiya,Machinga,Namwera,January,2024,Rice,1926.9
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Rice,2000
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Rice,1900
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Rice,1600
+Machinga,Mpokwa,Zomba,Jali,January,2024,Rice,1570.35
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Rice,1500.86
+Machinga,Thondwe,Zomba,Zomba,January,2024,Rice,2000.56
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Rice,1800.97
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Rice,2038.18
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Rice,1881.3
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Rice,2008.59
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Rice,1900.05
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Rice,2500
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Rice,2800
+Blantyre,Neno,Neno,Neno,January,2024,Rice,2000
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Rice,
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Rice,1900
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Rice,2500
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Rice,2350
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Rice,2450
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Rice,2400
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Rice,2000
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Rice,2400
+Karonga,Misuku,Chitipa,Misuku,February,2024,Rice,
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Rice,
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Rice,
+Karonga,Mpata,Karonga,Karonga,February,2024,Rice,
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Rice,
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Rice,
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Rice,1913.79
+Mzuzu,Emsizini,Mzimba North,Mzuzu,February,2024,Rice,2278
+Mzuzu,Kazomba,Mzimba South,Mzimba,February,2024,Rice,1967
+Mzuzu,Mbawa,Mzimba South,Embangweni,February,2024,Rice,
+Mzuzu,Champhira,Mzimba South,Jenda,February,2024,Rice,
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,February,2024,Rice,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,February,2024,Rice,
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,February,2024,Rice,1828.56
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Rice,1800
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Rice,
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Rice,2000
+Salima,Tembwe,Salima,Salima,February,2024,Rice,1825
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Rice,
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Rice,
+Kasungu,Nachisaka,Dowa East,Dowa,February,2024,Rice,
+Kasungu,Mponela,Dowa West,Mponela,February,2024,Rice,
+Kasungu,Madisi,Dowa West,Madisi,February,2024,Rice,
+Kasungu,Bowe,Dowa West,Bowe,February,2024,Rice,
+Kasungu,Nambuma,Dowa West,Nambuma,February,2024,Rice,
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Rice,2000
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Rice,2000
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Rice,2000
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Rice,2000
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Rice,2000
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Rice,
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Rice,
+Lilongwe,Chilaza,Lilongwe West,Msundwe,February,2024,Rice,
+Lilongwe,Demera,Lilongwe West,Kasiya,February,2024,Rice,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,February,2024,Rice,
+Lilongwe,Mitundu,Lilongwe West,Mitundu,February,2024,Rice,1950
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,February,2024,Rice,1800
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,February,2024,Rice,
+Lilongwe,Lobi,Dedza,Thete,February,2024,Rice,
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Rice,
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Rice,2000.22
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Rice,1900
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Rice,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Rice,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Rice,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Rice,
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Rice,
+Machinga,Bazale,Balaka,Balaka,February,2024,Rice,2180.88
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Rice,
+Machinga,Mpiya,Machinga,Namwera,February,2024,Rice,1581.71
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Rice,2000
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Rice,1848.25
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Rice,2000
+Machinga,Mpokwa,Zomba,Jali,February,2024,Rice,
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Rice,
+Machinga,Thondwe,Zomba,Zomba,February,2024,Rice,
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Rice,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Rice,1975.405
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Rice,
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Rice,
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Rice,1934.33
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Rice,
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Rice,2800
+Blantyre,Neno,Neno,Neno,February,2024,Rice,2000
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Rice,
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Rice,2200
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Rice,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Rice,2500
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Rice,2600
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Rice,2550
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Rice,2000
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Rice,2600.24
+Karonga,Misuku,Chitipa,Misuku,March,2024,Rice,1397.5
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Rice,
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Rice,2024.16
+Karonga,Mpata,Karonga,Karonga,March,2024,Rice,690.44
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Rice,1645.71
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Rice,1905.44
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Rice,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,March,2024,Rice,
+Mzuzu,Kazomba,Mzimba South,Mzimba,March,2024,Rice,2072.55
+Mzuzu,Mbawa,Mzimba South,Embangweni,March,2024,Rice,
+Mzuzu,Champhira,Mzimba South,Jenda,March,2024,Rice,
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,March,2024,Rice,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,March,2024,Rice,1230.94
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,March,2024,Rice,1831.66
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Rice,1700
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Rice,
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Rice,
+Salima,Tembwe,Salima,Salima,March,2024,Rice,1800
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Rice,
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Rice,
+Kasungu,Nachisaka,Dowa East,Dowa,March,2024,Rice,1800
+Kasungu,Mponela,Dowa West,Mponela,March,2024,Rice,1600
+Kasungu,Madisi,Dowa West,Madisi,March,2024,Rice,
+Kasungu,Bowe,Dowa West,Bowe,March,2024,Rice,
+Kasungu,Nambuma,Dowa West,Nambuma,March,2024,Rice,2200
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Rice,2000
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Rice,1800
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Rice,2050
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Rice,2000
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Rice,2000
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Rice,
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Rice,4000
+Lilongwe,Chilaza,Lilongwe West,Msundwe,March,2024,Rice,
+Lilongwe,Demera,Lilongwe West,Kasiya,March,2024,Rice,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,March,2024,Rice,2200
+Lilongwe,Mitundu,Lilongwe West,Mitundu,March,2024,Rice,1975
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,March,2024,Rice,1800
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,March,2024,Rice,
+Lilongwe,Lobi,Dedza,Thete,March,2024,Rice,2000
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Rice,
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Rice,2000.2
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Rice,1200
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Rice,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Rice,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Rice,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Rice,1831.56
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Rice,
+Machinga,Bazale,Balaka,Balaka,March,2024,Rice,2131.48
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Rice,
+Machinga,Mpiya,Machinga,Namwera,March,2024,Rice,
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Rice,2361.67
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Rice,2299.45
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Rice,2305.28
+Machinga,Mpokwa,Zomba,Jali,March,2024,Rice,
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Rice,
+Machinga,Thondwe,Zomba,Zomba,March,2024,Rice,
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Rice,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Rice,1950.42
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Rice,
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Rice,2039.43
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Rice,1867
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Rice,2217.5
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Rice,2800
+Blantyre,Neno,Neno,Neno,March,2024,Rice,2000
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Rice,
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Rice,2100
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Rice,2106.11
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Rice,2500
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Rice,2600
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Rice,2550
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Rice,2000
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Rice,2600
+Karonga,Misuku,Chitipa,Misuku,April,2024,Rice,1400.88
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Rice,
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Rice,
+Karonga,Mpata,Karonga,Karonga,April,2024,Rice,
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Rice,1134.35
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Rice,
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Rice,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,April,2024,Rice,
+Mzuzu,Kazomba,Mzimba South,Mzimba,April,2024,Rice,2033.39
+Mzuzu,Mbawa,Mzimba South,Embangweni,April,2024,Rice,
+Mzuzu,Champhira,Mzimba South,Jenda,April,2024,Rice,
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,April,2024,Rice,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,April,2024,Rice,1159.23
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,April,2024,Rice,1828.6
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Rice,1700
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Rice,
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Rice,
+Salima,Tembwe,Salima,Salima,April,2024,Rice,2000
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Rice,
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Rice,
+Kasungu,Nachisaka,Dowa East,Dowa,April,2024,Rice,1800
+Kasungu,Mponela,Dowa West,Mponela,April,2024,Rice,
+Kasungu,Madisi,Dowa West,Madisi,April,2024,Rice,
+Kasungu,Bowe,Dowa West,Bowe,April,2024,Rice,2000
+Kasungu,Nambuma,Dowa West,Nambuma,April,2024,Rice,
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Rice,
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Rice,
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Rice,
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Rice,
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Rice,
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Rice,
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Rice,
+Lilongwe,Chilaza,Lilongwe West,Msundwe,April,2024,Rice,
+Lilongwe,Demera,Lilongwe West,Kasiya,April,2024,Rice,2200
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,April,2024,Rice,2200
+Lilongwe,Mitundu,Lilongwe West,Mitundu,April,2024,Rice,2050
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,April,2024,Rice,1920
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,April,2024,Rice,1930
+Lilongwe,Lobi,Dedza,Thete,April,2024,Rice,
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Rice,
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Rice,2000.35
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Rice,
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Rice,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Rice,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Rice,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Rice,
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Rice,
+Machinga,Bazale,Balaka,Balaka,April,2024,Rice,2257.66
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Rice,
+Machinga,Mpiya,Machinga,Namwera,April,2024,Rice,
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Rice,
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Rice,
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Rice,
+Machinga,Mpokwa,Zomba,Jali,April,2024,Rice,
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Rice,
+Machinga,Thondwe,Zomba,Zomba,April,2024,Rice,
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Rice,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Rice,2000
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Rice,1863.4
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Rice,
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Rice,1800
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Rice,2217.5
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Rice,2500
+Blantyre,Neno,Neno,Neno,April,2024,Rice,2000
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Rice,
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Rice,
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Rice,2015.84
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Rice,2500
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Rice,2600
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Rice,2550
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Rice,
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Rice,
+Karonga,Misuku,Chitipa,Misuku,May,2024,Rice,
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Rice,
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Rice,
+Karonga,Mpata,Karonga,Karonga,May,2024,Rice,1200
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Rice,1321.404
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Rice,1826.3
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Rice,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,May,2024,Rice,
+Mzuzu,Kazomba,Mzimba South,Mzimba,May,2024,Rice,524
+Mzuzu,Mbawa,Mzimba South,Embangweni,May,2024,Rice,
+Mzuzu,Champhira,Mzimba South,Jenda,May,2024,Rice,
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,May,2024,Rice,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,May,2024,Rice,1159.33
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,May,2024,Rice,1583.33
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Rice,1600
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Rice,1500
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Rice,1950
+Salima,Tembwe,Salima,Salima,May,2024,Rice,
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Rice,
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Rice,
+Kasungu,Nachisaka,Dowa East,Dowa,May,2024,Rice,1800
+Kasungu,Mponela,Dowa West,Mponela,May,2024,Rice,
+Kasungu,Madisi,Dowa West,Madisi,May,2024,Rice,
+Kasungu,Bowe,Dowa West,Bowe,May,2024,Rice,
+Kasungu,Nambuma,Dowa West,Nambuma,May,2024,Rice,2140
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Rice,2000
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Rice,2000
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Rice,2000
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Rice,2000
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Rice,2000
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Rice,
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Rice,2000
+Lilongwe,Chilaza,Lilongwe West,Msundwe,May,2024,Rice,
+Lilongwe,Demera,Lilongwe West,Kasiya,May,2024,Rice,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,May,2024,Rice,2200
+Lilongwe,Mitundu,Lilongwe West,Mitundu,May,2024,Rice,1920
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,May,2024,Rice,1800
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,May,2024,Rice,1550
+Lilongwe,Lobi,Dedza,Thete,May,2024,Rice,
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Rice,
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Rice,2000.494
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Rice,1875
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Rice,1758
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Rice,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Rice,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Rice,
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Rice,
+Machinga,Bazale,Balaka,Balaka,May,2024,Rice,2178.77
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Rice,
+Machinga,Mpiya,Machinga,Namwera,May,2024,Rice,2240
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Rice,3034.636
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Rice,2000
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Rice,
+Machinga,Mpokwa,Zomba,Jali,May,2024,Rice,1500.35
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Rice,1650.25
+Machinga,Thondwe,Zomba,Zomba,May,2024,Rice,1800.25
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Rice,1600.97
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Rice,2012.7675
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Rice,1992.28
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Rice,
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Rice,
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Rice,1862.5
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Rice,2000
+Blantyre,Neno,Neno,Neno,May,2024,Rice,2000
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Rice,
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Rice,2200
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Rice,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Rice,1350
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Rice,1550
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Rice,1500
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Rice,
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Rice,2150.08
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

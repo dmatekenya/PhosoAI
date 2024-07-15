@@ -1,0 +1,377 @@
+﻿ADD,EPA,District ,Market,Month,Year,Commodity,Price
+Karonga,Misuku,Chitipa,Misuku,January,2024,Groundnuts,1637.49
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Groundnuts,
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Groundnuts,
+Karonga,Mpata,Karonga,Karonga,January,2024,Groundnuts,1776.62
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Groundnuts,1953.21
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Groundnuts,
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Groundnuts,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,January,2024,Groundnuts,2350.2
+Mzuzu,Kazomba,Mzimba South,Mzimba,January,2024,Groundnuts,
+Mzuzu,Mbawa,Mzimba South,Embangweni,January,2024,Groundnuts,
+Mzuzu,Champhira,Mzimba South,Jenda,January,2024,Groundnuts,2335.2
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,January,2024,Groundnuts,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,January,2024,Groundnuts,1208.15
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,January,2024,Groundnuts,1637.83
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Groundnuts,2000
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Groundnuts,2420
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Groundnuts,
+Salima,Tembwe,Salima,Salima,January,2024,Groundnuts,3000
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Groundnuts,2383.3
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Groundnuts,2500
+Kasungu,Nachisaka,Dowa East,Dowa,January,2024,Groundnuts,
+Kasungu,Mponela,Dowa West,Mponela,January,2024,Groundnuts,
+Kasungu,Madisi,Dowa West,Madisi,January,2024,Groundnuts,
+Kasungu,Bowe,Dowa West,Bowe,January,2024,Groundnuts,
+Kasungu,Nambuma,Dowa West,Nambuma,January,2024,Groundnuts,
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Groundnuts,
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Groundnuts,2000
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Groundnuts,3600
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Groundnuts,1500
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Groundnuts,2891.34
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Groundnuts,
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Groundnuts,
+Lilongwe,Chilaza,Lilongwe West,Msundwe,January,2024,Groundnuts,
+Lilongwe,Demera,Lilongwe West,Kasiya,January,2024,Groundnuts,2333.3
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,January,2024,Groundnuts,
+Lilongwe,Mitundu,Lilongwe West,Mitundu,January,2024,Groundnuts,2000
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,January,2024,Groundnuts,1700
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,January,2024,Groundnuts,
+Lilongwe,Lobi,Dedza,Thete,January,2024,Groundnuts,2000
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Groundnuts,1200
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Groundnuts,2000.36
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Groundnuts,1250
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Groundnuts,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Groundnuts,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Groundnuts,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Groundnuts,
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Groundnuts,
+Machinga,Bazale,Balaka,Balaka,January,2024,Groundnuts,3370.52
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Groundnuts,
+Machinga,Mpiya,Machinga,Namwera,January,2024,Groundnuts,1556.03
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Groundnuts,3175
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Groundnuts,3200
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Groundnuts,2900
+Machinga,Mpokwa,Zomba,Jali,January,2024,Groundnuts,2612.11
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Groundnuts,2624.13
+Machinga,Thondwe,Zomba,Zomba,January,2024,Groundnuts,2967.04
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Groundnuts,2633.64
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Groundnuts,2875.45
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Groundnuts,2492.99
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Groundnuts,2010.46
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Groundnuts,2250.01
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Groundnuts,2300.01
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Groundnuts,2200
+Blantyre,Neno,Neno,Neno,January,2024,Groundnuts,2500
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Groundnuts,
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Groundnuts,2500
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Groundnuts,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Groundnuts,2250
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Groundnuts,2200
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Groundnuts,2150
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Groundnuts,
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Groundnuts,2600.3
+Karonga,Misuku,Chitipa,Misuku,February,2024,Groundnuts,
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Groundnuts,
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Groundnuts,
+Karonga,Mpata,Karonga,Karonga,February,2024,Groundnuts,
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Groundnuts,
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Groundnuts,
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Groundnuts,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,February,2024,Groundnuts,2684.2
+Mzuzu,Kazomba,Mzimba South,Mzimba,February,2024,Groundnuts,2000
+Mzuzu,Mbawa,Mzimba South,Embangweni,February,2024,Groundnuts,
+Mzuzu,Champhira,Mzimba South,Jenda,February,2024,Groundnuts,2647.9
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,February,2024,Groundnuts,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,February,2024,Groundnuts,
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,February,2024,Groundnuts,1637.79
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Groundnuts,2000
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Groundnuts,
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Groundnuts,2000
+Salima,Tembwe,Salima,Salima,February,2024,Groundnuts,3000
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Groundnuts,2394.4
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Groundnuts,2500
+Kasungu,Nachisaka,Dowa East,Dowa,February,2024,Groundnuts,
+Kasungu,Mponela,Dowa West,Mponela,February,2024,Groundnuts,
+Kasungu,Madisi,Dowa West,Madisi,February,2024,Groundnuts,
+Kasungu,Bowe,Dowa West,Bowe,February,2024,Groundnuts,
+Kasungu,Nambuma,Dowa West,Nambuma,February,2024,Groundnuts,
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Groundnuts,2200
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Groundnuts,
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Groundnuts,3566.67
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Groundnuts,1500
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Groundnuts,2848.21
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Groundnuts,
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Groundnuts,
+Lilongwe,Chilaza,Lilongwe West,Msundwe,February,2024,Groundnuts,
+Lilongwe,Demera,Lilongwe West,Kasiya,February,2024,Groundnuts,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,February,2024,Groundnuts,
+Lilongwe,Mitundu,Lilongwe West,Mitundu,February,2024,Groundnuts,2250
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,February,2024,Groundnuts,1700
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,February,2024,Groundnuts,
+Lilongwe,Lobi,Dedza,Thete,February,2024,Groundnuts,2000
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Groundnuts,
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Groundnuts,2000.41
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Groundnuts,1250
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Groundnuts,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Groundnuts,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Groundnuts,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Groundnuts,
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Groundnuts,
+Machinga,Bazale,Balaka,Balaka,February,2024,Groundnuts,3534.17
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Groundnuts,
+Machinga,Mpiya,Machinga,Namwera,February,2024,Groundnuts,1555.13
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Groundnuts,3725
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Groundnuts,3225
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Groundnuts,2850
+Machinga,Mpokwa,Zomba,Jali,February,2024,Groundnuts,
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Groundnuts,
+Machinga,Thondwe,Zomba,Zomba,February,2024,Groundnuts,
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Groundnuts,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Groundnuts,2500.525
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Groundnuts,
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Groundnuts,
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Groundnuts,
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Groundnuts,
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Groundnuts,2200
+Blantyre,Neno,Neno,Neno,February,2024,Groundnuts,2500
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Groundnuts,
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Groundnuts,2100
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Groundnuts,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Groundnuts,2550
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Groundnuts,2500
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Groundnuts,2450
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Groundnuts,2000
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Groundnuts,2400.31
+Karonga,Misuku,Chitipa,Misuku,March,2024,Groundnuts,1656.07
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Groundnuts,
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Groundnuts,
+Karonga,Mpata,Karonga,Karonga,March,2024,Groundnuts,1050.69
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Groundnuts,1859.38
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Groundnuts,927.07
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Groundnuts,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,March,2024,Groundnuts,
+Mzuzu,Kazomba,Mzimba South,Mzimba,March,2024,Groundnuts,2029.79
+Mzuzu,Mbawa,Mzimba South,Embangweni,March,2024,Groundnuts,
+Mzuzu,Champhira,Mzimba South,Jenda,March,2024,Groundnuts,2792.3
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,March,2024,Groundnuts,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,March,2024,Groundnuts,1231.36
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,March,2024,Groundnuts,1638.24
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Groundnuts,
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Groundnuts,
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Groundnuts,
+Salima,Tembwe,Salima,Salima,March,2024,Groundnuts,3000
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Groundnuts,2441.7
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Groundnuts,2500
+Kasungu,Nachisaka,Dowa East,Dowa,March,2024,Groundnuts,2050
+Kasungu,Mponela,Dowa West,Mponela,March,2024,Groundnuts,1700
+Kasungu,Madisi,Dowa West,Madisi,March,2024,Groundnuts,
+Kasungu,Bowe,Dowa West,Bowe,March,2024,Groundnuts,
+Kasungu,Nambuma,Dowa West,Nambuma,March,2024,Groundnuts,
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Groundnuts,2200
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Groundnuts,1800
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Groundnuts,3566.67
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Groundnuts,1500
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Groundnuts,2848.21
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Groundnuts,
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Groundnuts,1400
+Lilongwe,Chilaza,Lilongwe West,Msundwe,March,2024,Groundnuts,
+Lilongwe,Demera,Lilongwe West,Kasiya,March,2024,Groundnuts,2466.7
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,March,2024,Groundnuts,2500
+Lilongwe,Mitundu,Lilongwe West,Mitundu,March,2024,Groundnuts,2200
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,March,2024,Groundnuts,2000
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,March,2024,Groundnuts,
+Lilongwe,Lobi,Dedza,Thete,March,2024,Groundnuts,
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Groundnuts,
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Groundnuts,2000.43
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Groundnuts,1250
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Groundnuts,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Groundnuts,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Groundnuts,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Groundnuts,1638.24
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Groundnuts,
+Machinga,Bazale,Balaka,Balaka,March,2024,Groundnuts,3550.79
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Groundnuts,
+Machinga,Mpiya,Machinga,Namwera,March,2024,Groundnuts,
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Groundnuts,3881.52
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Groundnuts,4014.1
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Groundnuts,3490.19
+Machinga,Mpokwa,Zomba,Jali,March,2024,Groundnuts,
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Groundnuts,
+Machinga,Thondwe,Zomba,Zomba,March,2024,Groundnuts,
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Groundnuts,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Groundnuts,2550.3175
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Groundnuts,
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Groundnuts,2382.475
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Groundnuts,2211.51
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Groundnuts,2500
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Groundnuts,2600
+Blantyre,Neno,Neno,Neno,March,2024,Groundnuts,2225
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Groundnuts,
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Groundnuts,2000
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Groundnuts,2251.98
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Groundnuts,2550
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Groundnuts,2500
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Groundnuts,2450
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Groundnuts,3000
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Groundnuts,2400.23
+Karonga,Misuku,Chitipa,Misuku,April,2024,Groundnuts,1787.775
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Groundnuts,
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Groundnuts,
+Karonga,Mpata,Karonga,Karonga,April,2024,Groundnuts,
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Groundnuts,1585.21
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Groundnuts,
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Groundnuts,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,April,2024,Groundnuts,
+Mzuzu,Kazomba,Mzimba South,Mzimba,April,2024,Groundnuts,2194.74
+Mzuzu,Mbawa,Mzimba South,Embangweni,April,2024,Groundnuts,
+Mzuzu,Champhira,Mzimba South,Jenda,April,2024,Groundnuts,2620.1
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,April,2024,Groundnuts,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,April,2024,Groundnuts,1250.02
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,April,2024,Groundnuts,1637.87
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Groundnuts,2600
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Groundnuts,
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Groundnuts,
+Salima,Tembwe,Salima,Salima,April,2024,Groundnuts,3200
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Groundnuts,2477.8
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Groundnuts,2500
+Kasungu,Nachisaka,Dowa East,Dowa,April,2024,Groundnuts,2000
+Kasungu,Mponela,Dowa West,Mponela,April,2024,Groundnuts,
+Kasungu,Madisi,Dowa West,Madisi,April,2024,Groundnuts,
+Kasungu,Bowe,Dowa West,Bowe,April,2024,Groundnuts,2000
+Kasungu,Nambuma,Dowa West,Nambuma,April,2024,Groundnuts,
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Groundnuts,
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Groundnuts,
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Groundnuts,
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Groundnuts,
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Groundnuts,
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Groundnuts,
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Groundnuts,
+Lilongwe,Chilaza,Lilongwe West,Msundwe,April,2024,Groundnuts,
+Lilongwe,Demera,Lilongwe West,Kasiya,April,2024,Groundnuts,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,April,2024,Groundnuts,3000
+Lilongwe,Mitundu,Lilongwe West,Mitundu,April,2024,Groundnuts,
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,April,2024,Groundnuts,
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,April,2024,Groundnuts,1790
+Lilongwe,Lobi,Dedza,Thete,April,2024,Groundnuts,
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Groundnuts,
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Groundnuts,2112.82
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Groundnuts,
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Groundnuts,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Groundnuts,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Groundnuts,2045.6
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Groundnuts,
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Groundnuts,
+Machinga,Bazale,Balaka,Balaka,April,2024,Groundnuts,3606.25
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Groundnuts,
+Machinga,Mpiya,Machinga,Namwera,April,2024,Groundnuts,
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Groundnuts,
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Groundnuts,
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Groundnuts,
+Machinga,Mpokwa,Zomba,Jali,April,2024,Groundnuts,
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Groundnuts,
+Machinga,Thondwe,Zomba,Zomba,April,2024,Groundnuts,
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Groundnuts,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Groundnuts,2375.59
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Groundnuts,2465.47
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Groundnuts,
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Groundnuts,2350
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Groundnuts,2500
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Groundnuts,2600
+Blantyre,Neno,Neno,Neno,April,2024,Groundnuts,2200
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Groundnuts,
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Groundnuts,
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Groundnuts,2938.02
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Groundnuts,2550
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Groundnuts,2500
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Groundnuts,2450
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Groundnuts,
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Groundnuts,
+Karonga,Misuku,Chitipa,Misuku,May,2024,Groundnuts,
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Groundnuts,
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Groundnuts,
+Karonga,Mpata,Karonga,Karonga,May,2024,Groundnuts,1256.48
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Groundnuts,
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Groundnuts,
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Groundnuts,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,May,2024,Groundnuts,
+Mzuzu,Kazomba,Mzimba South,Mzimba,May,2024,Groundnuts,2750.95
+Mzuzu,Mbawa,Mzimba South,Embangweni,May,2024,Groundnuts,
+Mzuzu,Champhira,Mzimba South,Jenda,May,2024,Groundnuts,
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,May,2024,Groundnuts,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,May,2024,Groundnuts,
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,May,2024,Groundnuts,1637.79
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Groundnuts,2600
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Groundnuts,1000
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Groundnuts,
+Salima,Tembwe,Salima,Salima,May,2024,Groundnuts,
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Groundnuts,2540
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Groundnuts,
+Kasungu,Nachisaka,Dowa East,Dowa,May,2024,Groundnuts,2025
+Kasungu,Mponela,Dowa West,Mponela,May,2024,Groundnuts,
+Kasungu,Madisi,Dowa West,Madisi,May,2024,Groundnuts,
+Kasungu,Bowe,Dowa West,Bowe,May,2024,Groundnuts,
+Kasungu,Nambuma,Dowa West,Nambuma,May,2024,Groundnuts,
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Groundnuts,2200
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Groundnuts,2500
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Groundnuts,2000
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Groundnuts,1700
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Groundnuts,2196.69
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Groundnuts,
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Groundnuts,2000
+Lilongwe,Chilaza,Lilongwe West,Msundwe,May,2024,Groundnuts,
+Lilongwe,Demera,Lilongwe West,Kasiya,May,2024,Groundnuts,2400
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,May,2024,Groundnuts,3000
+Lilongwe,Mitundu,Lilongwe West,Mitundu,May,2024,Groundnuts,1750
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,May,2024,Groundnuts,
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,May,2024,Groundnuts,1750
+Lilongwe,Lobi,Dedza,Thete,May,2024,Groundnuts,
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Groundnuts,
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Groundnuts,1268.546
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Groundnuts,1250
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Groundnuts,2600
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Groundnuts,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Groundnuts,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Groundnuts,
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Groundnuts,
+Machinga,Bazale,Balaka,Balaka,May,2024,Groundnuts,
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Groundnuts,
+Machinga,Mpiya,Machinga,Namwera,May,2024,Groundnuts,2190.53
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Groundnuts,2052.818
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Groundnuts,2827.888
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Groundnuts,
+Machinga,Mpokwa,Zomba,Jali,May,2024,Groundnuts,2500.26
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Groundnuts,2820.56
+Machinga,Thondwe,Zomba,Zomba,May,2024,Groundnuts,3500.5
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Groundnuts,2500.26
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Groundnuts,2437.9025
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Groundnuts,2389.64
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Groundnuts,
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Groundnuts,
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Groundnuts,2425
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Groundnuts,2600
+Blantyre,Neno,Neno,Neno,May,2024,Groundnuts,2200
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Groundnuts,2650
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Groundnuts,
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Groundnuts,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Groundnuts,1500
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Groundnuts,1600
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Groundnuts,1550
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Groundnuts,
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Groundnuts,2100.16
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,361 @@
+﻿ADD,EPA,District ,Market,Month,Year,Commodity,Price
+Karonga,Misuku,Chitipa,Misuku,January,2024,Beans,1465.254
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Beans,
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Beans,
+Karonga,Mpata,Karonga,Karonga,January,2024,Beans,1890.57
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Beans,
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Beans,
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Beans,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,January,2024,Beans,2483.2
+Mzuzu,Kazomba,Mzimba South,Mzimba,January,2024,Beans,
+Mzuzu,Mbawa,Mzimba South,Embangweni,January,2024,Beans,2073.1
+Mzuzu,Champhira,Mzimba South,Jenda,January,2024,Beans,2398.1
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,January,2024,Beans,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,January,2024,Beans,1225.25
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,January,2024,Beans,1962.57
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Beans,2400
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Beans,2500
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Beans,
+Salima,Tembwe,Salima,Salima,January,2024,Beans,3200
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Beans,2262.5
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Beans,2333.3
+Kasungu,Nachisaka,Dowa East,Dowa,January,2024,Beans,
+Kasungu,Mponela,Dowa West,Mponela,January,2024,Beans,
+Kasungu,Madisi,Dowa West,Madisi,January,2024,Beans,
+Kasungu,Bowe,Dowa West,Bowe,January,2024,Beans,
+Kasungu,Nambuma,Dowa West,Nambuma,January,2024,Beans,
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Beans,
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Beans,2300
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Beans,3500
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Beans,1996.52
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Beans,20042.23
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Beans,2600
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Beans,3272.6
+Lilongwe,Chilaza,Lilongwe West,Msundwe,January,2024,Beans,
+Lilongwe,Demera,Lilongwe West,Kasiya,January,2024,Beans,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,January,2024,Beans,
+Lilongwe,Mitundu,Lilongwe West,Mitundu,January,2024,Beans,2552
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,January,2024,Beans,1800
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,January,2024,Beans,
+Lilongwe,Lobi,Dedza,Thete,January,2024,Beans,2200
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Beans,3000
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Beans,1987.78
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Beans,1900
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Beans,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Beans,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Beans,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Beans,
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Beans,
+Machinga,Bazale,Balaka,Balaka,January,2024,Beans,3412.96
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Beans,
+Machinga,Mpiya,Machinga,Namwera,January,2024,Beans,1535.32
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Beans,3050
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Beans,3100
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Beans,2850
+Machinga,Mpokwa,Zomba,Jali,January,2024,Beans,3000.77
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Beans,3000.43
+Machinga,Thondwe,Zomba,Zomba,January,2024,Beans,3000.43
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Beans,2800.56
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Beans,"3,160.65"
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Beans,3188.63
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Beans,
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Beans,2600.18
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Beans,2625
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Beans,2389.19
+Blantyre,Neno,Neno,Neno,January,2024,Beans,2500
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Beans,
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Beans,2300
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Beans,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Beans,2000
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Beans,2100
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Beans,2000
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Beans,2400
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Beans,3000.08
+Karonga,Misuku,Chitipa,Misuku,February,2024,Beans,
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Beans,
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Beans,
+Karonga,Mpata,Karonga,Karonga,February,2024,Beans,
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Beans,
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Beans,
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Beans,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,February,2024,Beans,2707.6
+Mzuzu,Kazomba,Mzimba South,Mzimba,February,2024,Beans,2000
+Mzuzu,Mbawa,Mzimba South,Embangweni,February,2024,Beans,2999.2
+Mzuzu,Champhira,Mzimba South,Jenda,February,2024,Beans,2602.2
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,February,2024,Beans,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,February,2024,Beans,
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,February,2024,Beans,1962.26
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Beans,2400
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Beans,
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Beans,3112.5
+Salima,Tembwe,Salima,Salima,February,2024,Beans,
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Beans,2687.5
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Beans,3200
+Kasungu,Nachisaka,Dowa East,Dowa,February,2024,Beans,
+Kasungu,Mponela,Dowa West,Mponela,February,2024,Beans,
+Kasungu,Madisi,Dowa West,Madisi,February,2024,Beans,
+Kasungu,Bowe,Dowa West,Bowe,February,2024,Beans,
+Kasungu,Nambuma,Dowa West,Nambuma,February,2024,Beans,
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Beans,2000
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Beans,2300
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Beans,3533
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Beans,1982.22
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Beans,2095.66
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Beans,3383.3
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Beans,4000
+Lilongwe,Chilaza,Lilongwe West,Msundwe,February,2024,Beans,
+Lilongwe,Demera,Lilongwe West,Kasiya,February,2024,Beans,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,February,2024,Beans,
+Lilongwe,Mitundu,Lilongwe West,Mitundu,February,2024,Beans,2900
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,February,2024,Beans,1600
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,February,2024,Beans,
+Lilongwe,Lobi,Dedza,Thete,February,2024,Beans,
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Beans,
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Beans,1687.63
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Beans,1975
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Beans,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Beans,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Beans,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Beans,
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Beans,
+Machinga,Bazale,Balaka,Balaka,February,2024,Beans,3407.71
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Beans,
+Machinga,Mpiya,Machinga,Namwera,February,2024,Beans,2329.475
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Beans,3000
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Beans,3133.25
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Beans,3000
+Machinga,Mpokwa,Zomba,Jali,February,2024,Beans,
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Beans,
+Machinga,Thondwe,Zomba,Zomba,February,2024,Beans,
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Beans,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Beans,3975.455
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Beans,
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Beans,
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Beans,
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Beans,
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Beans,2389.19
+Blantyre,Neno,Neno,Neno,February,2024,Beans,2500
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Beans,
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Beans,2500
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Beans,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Beans,3500
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Beans,3600
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Beans,3500
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Beans,2400
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Beans,3000.22
+Karonga,Misuku,Chitipa,Misuku,March,2024,Beans,2875.495
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Beans,
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Beans,
+Karonga,Mpata,Karonga,Karonga,March,2024,Beans,1317.89
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Beans,1962.86
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Beans,2543.67
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Beans,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,March,2024,Beans,
+Mzuzu,Kazomba,Mzimba South,Mzimba,March,2024,Beans,1709.41
+Mzuzu,Mbawa,Mzimba South,Embangweni,March,2024,Beans,2664.4
+Mzuzu,Champhira,Mzimba South,Jenda,March,2024,Beans,2569.1
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,March,2024,Beans,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,March,2024,Beans,1231.36
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,March,2024,Beans,1962.72
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Beans,3000
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Beans,
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Beans,
+Salima,Tembwe,Salima,Salima,March,2024,Beans,
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Beans,2596.7
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Beans,3200
+Kasungu,Nachisaka,Dowa East,Dowa,March,2024,Beans,2950
+Kasungu,Mponela,Dowa West,Mponela,March,2024,Beans,1500
+Kasungu,Madisi,Dowa West,Madisi,March,2024,Beans,
+Kasungu,Bowe,Dowa West,Bowe,March,2024,Beans,
+Kasungu,Nambuma,Dowa West,Nambuma,March,2024,Beans,2925
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Beans,"2,000.00"
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Beans,2800
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Beans,3533.33
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Beans,1996.52
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Beans,2095.66
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Beans,3608.3
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Beans,2500
+Lilongwe,Chilaza,Lilongwe West,Msundwe,March,2024,Beans,
+Lilongwe,Demera,Lilongwe West,Kasiya,March,2024,Beans,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,March,2024,Beans,3450
+Lilongwe,Mitundu,Lilongwe West,Mitundu,March,2024,Beans,
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,March,2024,Beans,1650
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,March,2024,Beans,
+Lilongwe,Lobi,Dedza,Thete,March,2024,Beans,2125
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Beans,
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Beans,2500.12
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Beans,1975
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Beans,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Beans,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Beans,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Beans,1962.51
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Beans,
+Machinga,Bazale,Balaka,Balaka,March,2024,Beans,3548.04
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Beans,
+Machinga,Mpiya,Machinga,Namwera,March,2024,Beans,
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Beans,4662.25
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Beans,4068.12
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Beans,3651.15
+Machinga,Mpokwa,Zomba,Jali,March,2024,Beans,
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Beans,
+Machinga,Thondwe,Zomba,Zomba,March,2024,Beans,
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Beans,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Beans,3850.4175
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Beans,
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Beans,2557.475
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Beans,2566.69
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Beans,2625
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Beans,3200
+Blantyre,Neno,Neno,Neno,March,2024,Beans,2350
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Beans,
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Beans,2450
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Beans,2952.26
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Beans,3500
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Beans,3600
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Beans,3500
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Beans,3400
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Beans,3000.07
+Karonga,Misuku,Chitipa,Misuku,April,2024,Beans,2870.995
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Beans,
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Beans,
+Karonga,Mpata,Karonga,Karonga,April,2024,Beans,
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Beans,1375.95
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Beans,
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Beans,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,April,2024,Beans,
+Mzuzu,Kazomba,Mzimba South,Mzimba,April,2024,Beans,2267.29
+Mzuzu,Mbawa,Mzimba South,Embangweni,April,2024,Beans,2669.5
+Mzuzu,Champhira,Mzimba South,Jenda,April,2024,Beans,2400.5
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,April,2024,Beans,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,April,2024,Beans,1335.51
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,April,2024,Beans,1962.54
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Beans,3600
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Beans,
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Beans,
+Salima,Tembwe,Salima,Salima,April,2024,Beans,3500
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Beans,2533.3
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Beans,2316.7
+Kasungu,Nachisaka,Dowa East,Dowa,April,2024,Beans,3000
+Kasungu,Mponela,Dowa West,Mponela,April,2024,Beans,
+Kasungu,Madisi,Dowa West,Madisi,April,2024,Beans,
+Kasungu,Bowe,Dowa West,Bowe,April,2024,Beans,"3,000.00"
+Kasungu,Nambuma,Dowa West,Nambuma,April,2024,Beans,
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Beans,
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Beans,
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Beans,
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Beans,
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Beans,
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Beans,3733.3
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Beans,3972.2
+Lilongwe,Chilaza,Lilongwe West,Msundwe,April,2024,Beans,
+Lilongwe,Demera,Lilongwe West,Kasiya,April,2024,Beans,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,April,2024,Beans,3800
+Lilongwe,Mitundu,Lilongwe West,Mitundu,April,2024,Beans,2650
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,April,2024,Beans,1800
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,April,2024,Beans,1770
+Lilongwe,Lobi,Dedza,Thete,April,2024,Beans,
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Beans,
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Beans,2325.36
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Beans,
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Beans,
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Beans,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Beans,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Beans,
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Beans,
+Machinga,Bazale,Balaka,Balaka,April,2024,Beans,3529.25
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Beans,
+Machinga,Mpiya,Machinga,Namwera,April,2024,Beans,
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Beans,
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Beans,
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Beans,
+Machinga,Mpokwa,Zomba,Jali,April,2024,Beans,
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Beans,
+Machinga,Thondwe,Zomba,Zomba,April,2024,Beans,
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Beans,
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Beans,3575.47
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Beans,2983.88
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Beans,
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Beans,3000
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Beans,2630
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Beans,3800
+Blantyre,Neno,Neno,Neno,April,2024,Beans,2040
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Beans,
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Beans,
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Beans,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Beans,3500
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Beans,3600
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Beans,3500
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Beans,
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Beans,
+Karonga,Misuku,Chitipa,Misuku,May,2024,Beans,
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Beans,
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Beans,
+Karonga,Mpata,Karonga,Karonga,May,2024,Beans,1985.23
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Beans,2131.88
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Beans,2145.78
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Beans,
+Mzuzu,Emsizini,Mzimba North,Mzuzu,May,2024,Beans,
+Mzuzu,Kazomba,Mzimba South,Mzimba,May,2024,Beans,2436.45
+Mzuzu,Mbawa,Mzimba South,Embangweni,May,2024,Beans,3108.4
+Mzuzu,Champhira,Mzimba South,Jenda,May,2024,Beans,2527.2
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,May,2024,Beans,
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,May,2024,Beans,1336.486
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,May,2024,Beans,2372.84
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Beans,3200
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Beans,1700
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Beans,1850
+Salima,Tembwe,Salima,Salima,May,2024,Beans,
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Beans,2483.3
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Beans,1200
+Kasungu,Nachisaka,Dowa East,Dowa,May,2024,Beans,2724
+Kasungu,Mponela,Dowa West,Mponela,May,2024,Beans,
+Kasungu,Madisi,Dowa West,Madisi,May,2024,Beans,
+Kasungu,Bowe,Dowa West,Bowe,May,2024,Beans,
+Kasungu,Nambuma,Dowa West,Nambuma,May,2024,Beans,2980
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Beans,2200
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Beans,3200
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Beans,2733.33
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Beans,1900
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Beans,3068.02
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Beans,3633.3
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Beans,
+Lilongwe,Chilaza,Lilongwe West,Msundwe,May,2024,Beans,4000
+Lilongwe,Demera,Lilongwe West,Kasiya,May,2024,Beans,
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,May,2024,Beans,3800
+Lilongwe,Mitundu,Lilongwe West,Mitundu,May,2024,Beans,3060
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,May,2024,Beans,2800
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,May,2024,Beans,1700
+Lilongwe,Lobi,Dedza,Thete,May,2024,Beans,
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Beans,
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Beans,2288.098
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Beans,2650
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Beans,3000
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Beans,
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Beans,
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Beans,
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Beans,
+Machinga,Bazale,Balaka,Balaka,May,2024,Beans,3321.366
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Beans,
+Machinga,Mpiya,Machinga,Namwera,May,2024,Beans,3136.672
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Beans,4445.182
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Beans,3521.708
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Beans,
+Machinga,Mpokwa,Zomba,Jali,May,2024,Beans,3855.32
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Beans,3600.45
+Machinga,Thondwe,Zomba,Zomba,May,2024,Beans,3800.73
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Beans,3600.56
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Beans,2437.9025
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Beans,3496.5
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Beans,
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Beans,
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Beans,2800
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Beans,3750
+Blantyre,Neno,Neno,Neno,May,2024,Beans,2200
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Beans,
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Beans,2650
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Beans,
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Beans,1200
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Beans,1300
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Beans,1200
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Beans,
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Beans,2600.195

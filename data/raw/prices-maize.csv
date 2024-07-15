@@ -1,0 +1,376 @@
+﻿ADD,EPA,District ,Market,Month,Year,Wk1,Wk2,Wk3,Wk4,Wk5,Commodity,Price
+Karonga,Misuku,Chitipa,Misuku,January,2024,577.78,572.22,527.78,500,,Maize,544.445
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,,,,,,Maize,#DIV/0!
+Karonga,Lufita,Chitipa,Chitipa,January,2024,,,,,,Maize,#DIV/0!
+Karonga,Mpata,Karonga,Karonga,January,2024,777.67,800.24,764.75,666.66,700,Maize,752.33
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,,601.63,594.44,609.53,655.71,Maize,601.8666667
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Emsizini,Mzimba North,Mzuzu,January,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Kazomba,Mzimba South,Mzimba,January,2024,700,730,726.21,700,720,Maize,714.0525
+Mzuzu,Mbawa,Mzimba South,Embangweni,January,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Champhira,Mzimba South,Jenda,January,2024,698,676,700,720,689,Maize,698.5
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,January,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,January,2024,833.3,833.33,833.33,833.33,833.33,Maize,833.3225
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,January,2024,942.41,943.37,944.11,944.4,944.44,Maize,943.5725
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,1000,1000,1000,1000,1000,Maize,1000
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,900,900,900,900,,Maize,900
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,,,,,,Maize,#DIV/0!
+Salima,Tembwe,Salima,Salima,January,2024,900,900,900,918.37,900,Maize,904.5925
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nachisaka,Dowa East,Dowa,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Mponela,Dowa West,Mponela,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Madisi,Dowa West,Madisi,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Bowe,Dowa West,Bowe,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nambuma,Dowa West,Nambuma,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Santhe,Kasungu,Santhe,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,750,,,,,Maize,750
+Kasungu,Chamama,Kasungu,Chamama,January,2024,750,,,,,Maize,750
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,600,,,,,Maize,600
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,648.91,,,,,Maize,648.91
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,,,,,,Maize,#DIV/0!
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Chilaza,Lilongwe West,Msundwe,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Demera,Lilongwe West,Kasiya,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Mitundu,Lilongwe West,Mitundu,January,2024,970.93,940.82,950.47,800,902.51,Maize,915.555
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,January,2024,860,860,860,860,860,Maize,860
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Lobi,Dedza,Thete,January,2024,900,900,900,900,900,Maize,900
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,1000,1000,900,800,,Maize,925
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,820.88,830.12,830.19,850.19,,Maize,832.845
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,720,720,700,700,,Maize,710
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,,,,,,Maize,#DIV/0!
+Machinga,Bazale,Balaka,Balaka,January,2024,,983.22,986.07,989.76,991.98,Maize,986.35
+Machinga,Chikweo,Machinga,Ntaja,January,2024,,986.07,,,,Maize,986.07
+Machinga,Mpiya,Machinga,Namwera,January,2024,900,989.76,900,850,850,Maize,909.94
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,900,991.98,920,900,920,Maize,927.995
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,900,900,950,950,900,Maize,925
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,112.98,987.5,954.8,856.4,853.56,Maize,727.92
+Machinga,Mpokwa,Zomba,Jali,January,2024,,,1052.38,1052.38,1052.38,Maize,1052.38
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,,,1052.63,1052.63,1052.63,Maize,1052.63
+Machinga,Thondwe,Zomba,Zomba,January,2024,,,1125.4,1125.4,1125.4,Maize,1125.4
+Machinga,Thondwe,Zomba,Thondwe,January,2024,,,1000.6,1000.6,1000.6,Maize,1000.6
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,900.45,900.5,950.09,1000.89,,Maize,937.9825
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,,996.4,985.23,978.56,959.65,Maize,986.73
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,995.63,991.11,976.59,972.07,,Maize,983.85
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,1000,950,900,900,,Maize,937.5
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,,1000,1000,1100,1000,Maize,1033.333333
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,890,872.64,855.29,800,,Maize,854.4825
+Blantyre,Neno,Neno,Neno,January,2024,,900,920,940,950,Maize,920
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,,,,,,Maize,#DIV/0!
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,,,,,850,Maize,#DIV/0!
+Blantyre,Milonde,Mulanje,Muloza,January,2024,,,,,,Maize,#DIV/0!
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,,898.66,897.29,895.92,894.55,Maize,897.29
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,,918.69,904.14,910.56,903,Maize,911.13
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,,888.39,881.92,890.05,888.45,Maize,886.7866667
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,1111.11,1111.11,1111.11,1111.11,888.89,Maize,1111.11
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,900,900,900,900.24,900.08,Maize,900.06
+Karonga,Misuku,Chitipa,Misuku,February,2024,,,,,,Maize,#DIV/0!
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,,,,,,Maize,#DIV/0!
+Karonga,Lufita,Chitipa,Chitipa,February,2024,,,,,,Maize,#DIV/0!
+Karonga,Mpata,Karonga,Karonga,February,2024,,,,,,Maize,#DIV/0!
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,789.5,790.78,790.98,792.09,,Maize,790.8375
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Emsizini,Mzimba North,Mzuzu,February,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Kazomba,Mzimba South,Mzimba,February,2024,766.67,783.33,622.22,766.67,,Maize,734.7225
+Mzuzu,Mbawa,Mzimba South,Embangweni,February,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Champhira,Mzimba South,Jenda,February,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,February,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,February,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,February,2024,832.41,820.37,824.11,801.14,,Maize,819.5075
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,900,900,900,845.89,,Maize,886.4725
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,,,,,,Maize,#DIV/0!
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,850,850,850,811.76,,Maize,840.44
+Salima,Tembwe,Salima,Salima,February,2024,800,816.33,740,800,,Maize,789.0825
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,,,,,,Maize,#DIV/0!
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nachisaka,Dowa East,Dowa,February,2024,700,700,700,750,,Maize,712.5
+Kasungu,Mponela,Dowa West,Mponela,February,2024,,,,,,Maize,#DIV/0!
+Kasungu,Madisi,Dowa West,Madisi,February,2024,,,,,,Maize,#DIV/0!
+Kasungu,Bowe,Dowa West,Bowe,February,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nambuma,Dowa West,Nambuma,February,2024,,,,,,Maize,#DIV/0!
+Kasungu,Santhe,Kasungu,Santhe,February,2024,730,750,730,,,Maize,736.6666667
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,750,750,730,,,Maize,743.3333333
+Kasungu,Chamama,Kasungu,Chamama,February,2024,750,680,700,,,Maize,710
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,600,600,,,,Maize,600
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,648.91,624.67,618,,,Maize,630.5266667
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,,,,,,Maize,#DIV/0!
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Chilaza,Lilongwe West,Msundwe,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Demera,Lilongwe West,Kasiya,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Mitundu,Lilongwe West,Mitundu,February,2024,800,750,800,650,,Maize,750
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,February,2024,760,760,760,720,,Maize,750
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Lobi,Dedza,Thete,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,750.52,750.48,750.55,750.66,,Maize,750.5525
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,720,700,700,710,,Maize,707.5
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,,,,,,Maize,#DIV/0!
+Machinga,Bazale,Balaka,Balaka,February,2024,800.82,792.45,788.33,800.11,,Maize,795.4275
+Machinga,Chikweo,Machinga,Ntaja,February,2024,,,,,,Maize,#DIV/0!
+Machinga,Mpiya,Machinga,Namwera,February,2024,850,850,850,850,,Maize,850
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,900,850,900,800,,Maize,862.5
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,855,837,850,823,,Maize,841.25
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,915.78,876.67,820.8,805.27,,Maize,854.63
+Machinga,Mpokwa,Zomba,Jali,February,2024,,,,,,Maize,#DIV/0!
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,,,,,,Maize,#DIV/0!
+Machinga,Thondwe,Zomba,Zomba,February,2024,,,,,,Maize,#DIV/0!
+Machinga,Thondwe,Zomba,Thondwe,February,2024,,,,,,Maize,#DIV/0!
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,800.12,800.01,850.23,900.12,,Maize,837.62
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,,,,,,Maize,#DIV/0!
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,,,,,,Maize,#DIV/0!
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,,,,,,Maize,#DIV/0!
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,,,,,,Maize,#DIV/0!
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,850,864.54,865.34,872.09,,Maize,862.9925
+Blantyre,Neno,Neno,Neno,February,2024,900,890,890,890,,Maize,892.5
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,,,,,,Maize,#DIV/0!
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,,,,,,Maize,#DIV/0!
+Blantyre,Milonde,Mulanje,Muloza,February,2024,,,,,,Maize,#DIV/0!
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,808.44,807.07,805.7,804.33,,Maize,806.385
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,828.47,813.92,820.34,812.78,,Maize,818.8775
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,798.17,791.7,799.83,798.23,,Maize,796.9825
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,888.89,866.67,866.67,866.67,,Maize,872.225
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,900.05,890.27,890.46,890.74,,Maize,892.88
+Karonga,Misuku,Chitipa,Misuku,March,2024,422.22,429.22,429.78,388.89,,Maize,417.5275
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,,,,,,Maize,#DIV/0!
+Karonga,Lufita,Chitipa,Chitipa,March,2024,639.87,639.15,639.16,639.15,,Maize,639.3325
+Karonga,Mpata,Karonga,Karonga,March,2024,666.66,500.14,433.33,416.63,,Maize,504.19
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,698.63,694.44,699.53,695.71,,Maize,697.0775
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,821.11,821.18,822.23,822.34,,Maize,821.715
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Emsizini,Mzimba North,Mzuzu,March,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Kazomba,Mzimba South,Mzimba,March,2024,585.19,548.15,600,525.93,,Maize,564.8175
+Mzuzu,Mbawa,Mzimba South,Embangweni,March,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Champhira,Mzimba South,Jenda,March,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,March,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,March,2024,722.22,722.2,722.35,722.49,,Maize,722.315
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,March,2024,777.78,777.79,777.81,777.84,,Maize,777.805
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,700.45,700,700.13,700,,Maize,700.145
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,,,,,,Maize,#DIV/0!
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,,,,,,Maize,#DIV/0!
+Salima,Tembwe,Salima,Salima,March,2024,800,800,800,800,,Maize,800
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,,,,,,Maize,#DIV/0!
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nachisaka,Dowa East,Dowa,March,2024,650,650,650,650,,Maize,650
+Kasungu,Mponela,Dowa West,Mponela,March,2024,650,650,600,600,600,Maize,625
+Kasungu,Madisi,Dowa West,Madisi,March,2024,,,,,,Maize,#DIV/0!
+Kasungu,Bowe,Dowa West,Bowe,March,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nambuma,Dowa West,Nambuma,March,2024,750,750,750,750,,Maize,750
+Kasungu,Santhe,Kasungu,Santhe,March,2024,730,760,700,700,,Maize,722.5
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,780,780,780,780,,Maize,780
+Kasungu,Chamama,Kasungu,Chamama,March,2024,750,680,700,700,,Maize,707.5
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,600,600,650,650,,Maize,625
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,648.91,624.67,618,634.11,,Maize,631.4225
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,,,,,,Maize,#DIV/0!
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,766.67,766.67,700,700,,Maize,733.335
+Lilongwe,Chilaza,Lilongwe West,Msundwe,March,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Demera,Lilongwe West,Kasiya,March,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,March,2024,800,750,700,700,,Maize,737.5
+Lilongwe,Mitundu,Lilongwe West,Mitundu,March,2024,600,625.21,600.55,606.44,,Maize,608.05
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,March,2024,760.44,720,720.21,720.48,,Maize,730.2825
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,March,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Lobi,Dedza,Thete,March,2024,700,750,700,600,550,Maize,687.5
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,750.44,750.48,750.39,750.22,,Maize,750.3825
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,640,620,600,590,,Maize,612.5
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,777.78,777.79,777.81,777.84,,Maize,777.805
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,,,,,,Maize,#DIV/0!
+Machinga,Bazale,Balaka,Balaka,March,2024,800.21,800.76,800.42,800.67,,Maize,800.515
+Machinga,Chikweo,Machinga,Ntaja,March,2024,,,,,,Maize,#DIV/0!
+Machinga,Mpiya,Machinga,Namwera,March,2024,800,750,700,700,,Maize,737.5
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,800,750,750,700,,Maize,750
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,800,800,750,750,,Maize,775
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,820.80,805.27,812.60,805.27,,Maize,810.985
+Machinga,Mpokwa,Zomba,Jali,March,2024,,,,,,Maize,#DIV/0!
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,,,,,,Maize,#DIV/0!
+Machinga,Thondwe,Zomba,Zomba,March,2024,,,,,,Maize,#DIV/0!
+Machinga,Thondwe,Zomba,Thondwe,March,2024,,,,,,Maize,#DIV/0!
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,650.12,700.22,850.23,900.12,,Maize,775.1725
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,,,,,,Maize,#DIV/0!
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,772.07,791.11,810.15,829.19,,Maize,800.63
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,700.24,600.02,600.04,,,Maize,633.4333333
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,750,750,750,750,,Maize,750
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,850,850,850,850,,Maize,850
+Blantyre,Neno,Neno,Neno,March,2024,850,800,780,780,,Maize,802.5
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,,,,,,Maize,#DIV/0!
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,,,,,,Maize,#DIV/0!
+Blantyre,Milonde,Mulanje,Muloza,March,2024,626.19,632.54,621.11,642.75,,Maize,630.6475
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,764.89,763.52,762.15,760.78,,Maize,762.835
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,784.92,770.37,776.79,769.23,,Maize,775.3275
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,754.62,748.15,756.28,754.6766667,,Maize,753.4316667
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,888.56,878.18,876.89,866.67,,Maize,877.575
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,580.13,580.2,580.16,600,,Maize,585.1225
+Karonga,Misuku,Chitipa,Misuku,April,2024,422.22,429.78,416.67,388.89,,Maize,414.39
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,,,,,,Maize,#DIV/0!
+Karonga,Lufita,Chitipa,Chitipa,April,2024,,,,,,Maize,#DIV/0!
+Karonga,Mpata,Karonga,Karonga,April,2024,,,,,,Maize,#DIV/0!
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,565.56,568.41,555.56,573.71,569.92,Maize,565.81
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Emsizini,Mzimba North,Mzuzu,April,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Kazomba,Mzimba South,Mzimba,April,2024,629.63,766.67,805.56,525.93,580.2,Maize,681.9475
+Mzuzu,Mbawa,Mzimba South,Embangweni,April,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Champhira,Mzimba South,Jenda,April,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,April,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,April,2024,722.22,722.39,722.26,722.26,722.44,Maize,722.2825
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,April,2024,666.67,666.69,666.77,666.7,666.74,Maize,666.7075
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,600,600,600,600,600,Maize,600
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,,,,,,Maize,#DIV/0!
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,,,,,,Maize,#DIV/0!
+Salima,Tembwe,Salima,Salima,April,2024,700,700,700,700,700,Maize,700
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nachisaka,Dowa East,Dowa,April,2024,650,650,650,650,,Maize,650
+Kasungu,Mponela,Dowa West,Mponela,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Madisi,Dowa West,Madisi,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Bowe,Dowa West,Bowe,April,2024,300,320,320,350,,Maize,322.5
+Kasungu,Nambuma,Dowa West,Nambuma,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Santhe,Kasungu,Santhe,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Chamama,Kasungu,Chamama,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,,,,,,Maize,#DIV/0!
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Chilaza,Lilongwe West,Msundwe,April,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Demera,Lilongwe West,Kasiya,April,2024,400,400,450,500,500,Maize,437.5
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,April,2024,600,600,600,600,600,Maize,600
+Lilongwe,Mitundu,Lilongwe West,Mitundu,April,2024,660.37,600.55,675.2,575,,Maize,627.78
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,April,2024,650,650,650,650,650,Maize,650
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,April,2024,600,600,600,600,600,Maize,600
+Lilongwe,Lobi,Dedza,Thete,April,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,600.25,550.28,520.18,500.14,,Maize,542.7125
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,997.65,998.33,998.47,998.59,,Maize,998.26
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,,,,,,Maize,#DIV/0!
+Machinga,Bazale,Balaka,Balaka,April,2024,760.00,752.41,758.67,760.11,,Maize,757.7975
+Machinga,Chikweo,Machinga,Ntaja,April,2024,,,,,,Maize,#DIV/0!
+Machinga,Mpiya,Machinga,Namwera,April,2024,,,,,,Maize,#DIV/0!
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,,,,,,Maize,#DIV/0!
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,800,800,800,800,800,Maize,800
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,,,,,,Maize,#DIV/0!
+Machinga,Mpokwa,Zomba,Jali,April,2024,,,,,,Maize,#DIV/0!
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,,,,,,Maize,#DIV/0!
+Machinga,Thondwe,Zomba,Zomba,April,2024,,,,,,Maize,#DIV/0!
+Machinga,Thondwe,Zomba,Thondwe,April,2024,,,,,,Maize,#DIV/0!
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,600,600,600,550,,Maize,587.5
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,997.65,998.33,998.47,998.59,,Maize,998.26
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,,,,,,Maize,#DIV/0!
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,1933.33,1933.33,1933.33,1933.33,1933.33,Maize,1933.33
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,850,850,850,850,850,Maize,850
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,700,700,700,700,700,Maize,700
+Blantyre,Neno,Neno,Neno,April,2024,700,650,600,600,600,Maize,637.5
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,,,,,,Maize,#DIV/0!
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,,,,,,Maize,#DIV/0!
+Blantyre,Milonde,Mulanje,Muloza,April,2024,583.33,510.63,598.65,591.11,589.54,Maize,570.93
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,664.65,663.28,661.91,660.54,666,Maize,662.595
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,664.65,663.28,661.91,660.54,,Maize,662.595
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,684.68,670.13,676.55,668.99,,Maize,675.0875
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,654.38,647.91,656.04,654.44,,Maize,653.1925
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,,,,,,Maize,#DIV/0!
+Karonga,Misuku,Chitipa,Misuku,May,2024,,,,,,Maize,#DIV/0!
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,,,,,,Maize,#DIV/0!
+Karonga,Lufita,Chitipa,Chitipa,May,2024,,,,,,Maize,#DIV/0!
+Karonga,Mpata,Karonga,Karonga,May,2024,472.22,450.15,481.91,490.12,,Maize,473.6
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,567.78,573.45,581.54,579.77,593.33,Maize,575.635
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,764.44,755,771.67,766.67,,Maize,764.445
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Emsizini,Mzimba North,Mzuzu,May,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Kazomba,Mzimba South,Mzimba,May,2024,525.93,509.25,470.37,496.3,440.74,Maize,500.4625
+Mzuzu,Mbawa,Mzimba South,Embangweni,May,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Champhira,Mzimba South,Jenda,May,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Mpamba,Nkhata Bay,Mpamba,May,2024,,,,,,Maize,#DIV/0!
+Mzuzu,Nkhata Bay,Nkhata Bay,Nkhata Bay,May,2024,722.22,722.39,722.26,722.64,722.44,Maize,722.3775
+Mzuzu,Chintheche,Nkhata Bay,Chintheche,May,2024,555.55,583.33,611.11,667.7,,Maize,604.4225
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,745.78,712.88,700,723.27,700,Maize,720.4825
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,700,700,700,700,,Maize,700
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,500,550,600,600,600,Maize,562.5
+Salima,Tembwe,Salima,Salima,May,2024,,,,,,Maize,#DIV/0!
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,,,,,,Maize,#DIV/0!
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nachisaka,Dowa East,Dowa,May,2024,600,550,550,550,,Maize,562.5
+Kasungu,Mponela,Dowa West,Mponela,May,2024,,,,,,Maize,#DIV/0!
+Kasungu,Madisi,Dowa West,Madisi,May,2024,,,,,,Maize,#DIV/0!
+Kasungu,Bowe,Dowa West,Bowe,May,2024,,,,,,Maize,#DIV/0!
+Kasungu,Nambuma,Dowa West,Nambuma,May,2024,600,620,620,650,628,Maize,622.5
+Kasungu,Santhe,Kasungu,Santhe,May,2024,650,650,650,650,,Maize,650
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,650,650,650,650,,Maize,650
+Kasungu,Chamama,Kasungu,Chamama,May,2024,500,550,670,670,,Maize,597.5
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,550,550,550,550,,Maize,550
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,655.74,646.24,643.87,643.87,,Maize,647.43
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,,,,,,Maize,#DIV/0!
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,600,600,600,600,600,Maize,600
+Lilongwe,Chilaza,Lilongwe West,Msundwe,May,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Demera,Lilongwe West,Kasiya,May,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Chitsime,Lilongwe East,Lilongwe,May,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Mitundu,Lilongwe West,Mitundu,May,2024,400,500,500,600,600,Maize,500
+Lilongwe,Chitsime,Lilongwe East,Nanjiri,May,2024,600,600,600,600,600,Maize,600
+Lilongwe,Chitekwere,Lilongwe East,Nkhoma,May,2024,650,650,650,650,650,Maize,650
+Lilongwe,Lobi,Dedza,Thete,May,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,,,,,,Maize,#DIV/0!
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,520.11,520.17,530.18,530.22,550,Maize,525.17
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,520,540,540,560,,Maize,540
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,500,520,550,550,600,Maize,530
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,520,550,570,630,660,Maize,567.5
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,500,510,530,550,580,Maize,522.5
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,500,560,580,600,600,Maize,560
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,,,,,,Maize,#DIV/0!
+Machinga,Bazale,Balaka,Balaka,May,2024,640.67,632.30,628.97,631.12,,Maize,633.265
+Machinga,Chikweo,Machinga,Ntaja,May,2024,,,,,,Maize,#DIV/0!
+Machinga,Mpiya,Machinga,Namwera,May,2024,600,580,580,600,600,Maize,590
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,650,600,600,650,650,Maize,625
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,700,650,600,600,600,Maize,637.5
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,,,,,,Maize,#DIV/0!
+Machinga,Mpokwa,Zomba,Jali,May,2024,,,,,,Maize,#DIV/0!
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,,,,,,Maize,#DIV/0!
+Machinga,Thondwe,Zomba,Zomba,May,2024,,,,,,Maize,#DIV/0!
+Machinga,Thondwe,Zomba,Thondwe,May,2024,,,,,,Maize,#DIV/0!
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,700.12,700.01,750.22,750.88,,Maize,725.3075
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,,,,,,Maize,#DIV/0!
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,,,,,,Maize,#DIV/0!
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,,,,,,Maize,#DIV/0!
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,600,580.03,560.25,570.33,,Maize,577.6525
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,640,640,640,640,,Maize,640
+Blantyre,Neno,Neno,Neno,May,2024,600,600,600,600,,Maize,600
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,,,,,,Maize,#DIV/0!
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,,,,,,Maize,#DIV/0!
+Blantyre,Milonde,Mulanje,Muloza,May,2024,,,,,,Maize,#DIV/0!
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,519.87,518.5,517.13,515.76,515.76,Maize,517.815
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,539.9,525.35,531.77,524.21,524.21,Maize,530.3075
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,509.6,503.13,511.26,509.6566667,509.6566667,Maize,508.4116667
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,,,,,,Maize,#DIV/0!
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,700,700,700,700.01,,Maize,700.0025
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

@@ -1,0 +1,2161 @@
+ADD_Name,EPA_Name,District,Market,Month_Name,Yr,Commodity,Price,Collection_Date
+Karonga,Misuku,Chitipa,Misuku,January,2024,Maize,544.445,2024-01-31
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Maize,,2024-01-31
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Maize,,2024-01-31
+Karonga,Mpata,Karonga,Karonga,January,2024,Maize,752.33,2024-01-31
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Maize,601.8666667,2024-01-31
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Maize,,2024-01-31
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Maize,,2024-01-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,January,2024,Maize,,2024-01-31
+Mzuzu,Kazomba,Mzimba,Mzimba,January,2024,Maize,714.0525,2024-01-31
+Mzuzu,Mbawa,Mzimba,Embangweni,January,2024,Maize,,2024-01-31
+Mzuzu,Champhira,Mzimba,Jenda,January,2024,Maize,698.5,2024-01-31
+Mzuzu,Mpamba,Nkhata,Mpamba,January,2024,Maize,,2024-01-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,January,2024,Maize,833.3225,2024-01-31
+Mzuzu,Chintheche,Nkhata,Chintheche,January,2024,Maize,943.5725,2024-01-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Maize,1000.0,2024-01-31
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Maize,900.0,2024-01-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Maize,,2024-01-31
+Salima,Tembwe,Salima,Salima,January,2024,Maize,904.5925,2024-01-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Maize,,2024-01-31
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Maize,,2024-01-31
+Kasungu,Nachisaka,Dowa,Dowa,January,2024,Maize,,2024-01-31
+Kasungu,Mponela,Dowa,Mponela,January,2024,Maize,,2024-01-31
+Kasungu,Madisi,Dowa,Madisi,January,2024,Maize,,2024-01-31
+Kasungu,Bowe,Dowa,Bowe,January,2024,Maize,,2024-01-31
+Kasungu,Nambuma,Dowa,Nambuma,January,2024,Maize,,2024-01-31
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Maize,,2024-01-31
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Maize,750.0,2024-01-31
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Maize,750.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Maize,600.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Maize,648.91,2024-01-31
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Maize,,2024-01-31
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Maize,,2024-01-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,January,2024,Maize,,2024-01-31
+Lilongwe,Demera,Lilongwe,Kasiya,January,2024,Maize,,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,January,2024,Maize,,2024-01-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,January,2024,Maize,915.555,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,January,2024,Maize,860.0,2024-01-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,January,2024,Maize,,2024-01-31
+Lilongwe,Lobi,Dedza,Thete,January,2024,Maize,900.0,2024-01-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Maize,925.0,2024-01-31
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Maize,832.845,2024-01-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Maize,710.0,2024-01-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Maize,,2024-01-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Maize,,2024-01-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Maize,,2024-01-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Maize,,2024-01-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Maize,,2024-01-31
+Machinga,Bazale,Balaka,Balaka,January,2024,Maize,986.35,2024-01-31
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Maize,986.07,2024-01-31
+Machinga,Mpiya,Machinga,Namwera,January,2024,Maize,909.94,2024-01-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Maize,927.995,2024-01-31
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Maize,925.0,2024-01-31
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Maize,727.92,2024-01-31
+Machinga,Mpokwa,Zomba,Jali,January,2024,Maize,1052.38,2024-01-31
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Maize,1052.63,2024-01-31
+Machinga,Thondwe,Zomba,Zomba,January,2024,Maize,1125.4,2024-01-31
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Maize,1000.6,2024-01-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Maize,937.9825,2024-01-31
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Maize,986.73,2024-01-31
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Maize,983.85,2024-01-31
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Maize,937.5,2024-01-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Maize,1033.333333,2024-01-31
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Maize,854.4825,2024-01-31
+Blantyre,Neno,Neno,Neno,January,2024,Maize,920.0,2024-01-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Maize,,2024-01-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Maize,,2024-01-31
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Maize,,2024-01-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Maize,897.29,2024-01-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Maize,911.13,2024-01-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Maize,886.7866667,2024-01-31
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Maize,1111.11,2024-01-31
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Maize,900.06,2024-01-31
+Karonga,Misuku,Chitipa,Misuku,February,2024,Maize,,2024-02-29
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Maize,,2024-02-29
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Maize,,2024-02-29
+Karonga,Mpata,Karonga,Karonga,February,2024,Maize,,2024-02-29
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Maize,,2024-02-29
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Maize,790.8375,2024-02-29
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Maize,,2024-02-29
+Mzuzu,Emsizini,Mzimba,Mzuzu,February,2024,Maize,,2024-02-29
+Mzuzu,Kazomba,Mzimba,Mzimba,February,2024,Maize,734.7225,2024-02-29
+Mzuzu,Mbawa,Mzimba,Embangweni,February,2024,Maize,,2024-02-29
+Mzuzu,Champhira,Mzimba,Jenda,February,2024,Maize,,2024-02-29
+Mzuzu,Mpamba,Nkhata,Mpamba,February,2024,Maize,,2024-02-29
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,February,2024,Maize,,2024-02-29
+Mzuzu,Chintheche,Nkhata,Chintheche,February,2024,Maize,819.5075,2024-02-29
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Maize,886.4725,2024-02-29
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Maize,,2024-02-29
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Maize,840.44,2024-02-29
+Salima,Tembwe,Salima,Salima,February,2024,Maize,789.0825,2024-02-29
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Maize,,2024-02-29
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Maize,,2024-02-29
+Kasungu,Nachisaka,Dowa,Dowa,February,2024,Maize,712.5,2024-02-29
+Kasungu,Mponela,Dowa,Mponela,February,2024,Maize,,2024-02-29
+Kasungu,Madisi,Dowa,Madisi,February,2024,Maize,,2024-02-29
+Kasungu,Bowe,Dowa,Bowe,February,2024,Maize,,2024-02-29
+Kasungu,Nambuma,Dowa,Nambuma,February,2024,Maize,,2024-02-29
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Maize,736.6666667,2024-02-29
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Maize,743.3333333,2024-02-29
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Maize,710.0,2024-02-29
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Maize,600.0,2024-02-29
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Maize,630.5266667,2024-02-29
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Maize,,2024-02-29
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Maize,,2024-02-29
+Lilongwe,Chilaza,Lilongwe,Msundwe,February,2024,Maize,,2024-02-29
+Lilongwe,Demera,Lilongwe,Kasiya,February,2024,Maize,,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Lilongwe,February,2024,Maize,,2024-02-29
+Lilongwe,Mitundu,Lilongwe,Mitundu,February,2024,Maize,750.0,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Nanjiri,February,2024,Maize,750.0,2024-02-29
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,February,2024,Maize,,2024-02-29
+Lilongwe,Lobi,Dedza,Thete,February,2024,Maize,,2024-02-29
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Maize,,2024-02-29
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Maize,750.5525,2024-02-29
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Maize,707.5,2024-02-29
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Maize,,2024-02-29
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Maize,,2024-02-29
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Maize,,2024-02-29
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Maize,,2024-02-29
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Maize,,2024-02-29
+Machinga,Bazale,Balaka,Balaka,February,2024,Maize,795.4275,2024-02-29
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Maize,,2024-02-29
+Machinga,Mpiya,Machinga,Namwera,February,2024,Maize,850.0,2024-02-29
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Maize,862.5,2024-02-29
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Maize,841.25,2024-02-29
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Maize,854.63,2024-02-29
+Machinga,Mpokwa,Zomba,Jali,February,2024,Maize,,2024-02-29
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Maize,,2024-02-29
+Machinga,Thondwe,Zomba,Zomba,February,2024,Maize,,2024-02-29
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Maize,,2024-02-29
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Maize,837.62,2024-02-29
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Maize,,2024-02-29
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Maize,,2024-02-29
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Maize,,2024-02-29
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Maize,,2024-02-29
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Maize,862.9925,2024-02-29
+Blantyre,Neno,Neno,Neno,February,2024,Maize,892.5,2024-02-29
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Maize,,2024-02-29
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Maize,,2024-02-29
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Maize,,2024-02-29
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Maize,806.385,2024-02-29
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Maize,818.8775,2024-02-29
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Maize,796.9825,2024-02-29
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Maize,872.225,2024-02-29
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Maize,892.88,2024-02-29
+Karonga,Misuku,Chitipa,Misuku,March,2024,Maize,417.5275,2024-03-31
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Maize,,2024-03-31
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Maize,639.3325,2024-03-31
+Karonga,Mpata,Karonga,Karonga,March,2024,Maize,504.19,2024-03-31
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Maize,697.0775,2024-03-31
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Maize,821.715,2024-03-31
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Maize,,2024-03-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,March,2024,Maize,,2024-03-31
+Mzuzu,Kazomba,Mzimba,Mzimba,March,2024,Maize,564.8175,2024-03-31
+Mzuzu,Mbawa,Mzimba,Embangweni,March,2024,Maize,,2024-03-31
+Mzuzu,Champhira,Mzimba,Jenda,March,2024,Maize,,2024-03-31
+Mzuzu,Mpamba,Nkhata,Mpamba,March,2024,Maize,,2024-03-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,March,2024,Maize,722.315,2024-03-31
+Mzuzu,Chintheche,Nkhata,Chintheche,March,2024,Maize,777.805,2024-03-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Maize,700.145,2024-03-31
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Maize,,2024-03-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Maize,,2024-03-31
+Salima,Tembwe,Salima,Salima,March,2024,Maize,800.0,2024-03-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Maize,,2024-03-31
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Maize,,2024-03-31
+Kasungu,Nachisaka,Dowa,Dowa,March,2024,Maize,650.0,2024-03-31
+Kasungu,Mponela,Dowa,Mponela,March,2024,Maize,625.0,2024-03-31
+Kasungu,Madisi,Dowa,Madisi,March,2024,Maize,,2024-03-31
+Kasungu,Bowe,Dowa,Bowe,March,2024,Maize,,2024-03-31
+Kasungu,Nambuma,Dowa,Nambuma,March,2024,Maize,750.0,2024-03-31
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Maize,722.5,2024-03-31
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Maize,780.0,2024-03-31
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Maize,707.5,2024-03-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Maize,625.0,2024-03-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Maize,631.4225,2024-03-31
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Maize,,2024-03-31
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Maize,733.335,2024-03-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,March,2024,Maize,,2024-03-31
+Lilongwe,Demera,Lilongwe,Kasiya,March,2024,Maize,,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,March,2024,Maize,737.5,2024-03-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,March,2024,Maize,608.05,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,March,2024,Maize,730.2825,2024-03-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,March,2024,Maize,,2024-03-31
+Lilongwe,Lobi,Dedza,Thete,March,2024,Maize,687.5,2024-03-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Maize,,2024-03-31
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Maize,750.3825,2024-03-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Maize,612.5,2024-03-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Maize,,2024-03-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Maize,,2024-03-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Maize,,2024-03-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Maize,777.805,2024-03-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Maize,,2024-03-31
+Machinga,Bazale,Balaka,Balaka,March,2024,Maize,800.515,2024-03-31
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Maize,,2024-03-31
+Machinga,Mpiya,Machinga,Namwera,March,2024,Maize,737.5,2024-03-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Maize,750.0,2024-03-31
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Maize,775.0,2024-03-31
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Maize,810.985,2024-03-31
+Machinga,Mpokwa,Zomba,Jali,March,2024,Maize,,2024-03-31
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Maize,,2024-03-31
+Machinga,Thondwe,Zomba,Zomba,March,2024,Maize,,2024-03-31
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Maize,,2024-03-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Maize,775.1725,2024-03-31
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Maize,,2024-03-31
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Maize,800.63,2024-03-31
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Maize,633.4333333,2024-03-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Maize,750.0,2024-03-31
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Maize,850.0,2024-03-31
+Blantyre,Neno,Neno,Neno,March,2024,Maize,802.5,2024-03-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Maize,,2024-03-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Maize,,2024-03-31
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Maize,630.6475,2024-03-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Maize,762.835,2024-03-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Maize,775.3275,2024-03-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Maize,753.4316667,2024-03-31
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Maize,877.575,2024-03-31
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Maize,585.1225,2024-03-31
+Karonga,Misuku,Chitipa,Misuku,April,2024,Maize,414.39,2024-04-30
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Maize,,2024-04-30
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Maize,,2024-04-30
+Karonga,Mpata,Karonga,Karonga,April,2024,Maize,,2024-04-30
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Maize,565.81,2024-04-30
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Maize,,2024-04-30
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Maize,,2024-04-30
+Mzuzu,Emsizini,Mzimba,Mzuzu,April,2024,Maize,,2024-04-30
+Mzuzu,Kazomba,Mzimba,Mzimba,April,2024,Maize,681.9475,2024-04-30
+Mzuzu,Mbawa,Mzimba,Embangweni,April,2024,Maize,,2024-04-30
+Mzuzu,Champhira,Mzimba,Jenda,April,2024,Maize,,2024-04-30
+Mzuzu,Mpamba,Nkhata,Mpamba,April,2024,Maize,,2024-04-30
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,April,2024,Maize,722.2825,2024-04-30
+Mzuzu,Chintheche,Nkhata,Chintheche,April,2024,Maize,666.7075,2024-04-30
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Maize,600.0,2024-04-30
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Maize,,2024-04-30
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Maize,,2024-04-30
+Salima,Tembwe,Salima,Salima,April,2024,Maize,700.0,2024-04-30
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Maize,,2024-04-30
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Maize,,2024-04-30
+Kasungu,Nachisaka,Dowa,Dowa,April,2024,Maize,650.0,2024-04-30
+Kasungu,Mponela,Dowa,Mponela,April,2024,Maize,,2024-04-30
+Kasungu,Madisi,Dowa,Madisi,April,2024,Maize,,2024-04-30
+Kasungu,Bowe,Dowa,Bowe,April,2024,Maize,322.5,2024-04-30
+Kasungu,Nambuma,Dowa,Nambuma,April,2024,Maize,,2024-04-30
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Maize,,2024-04-30
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Maize,,2024-04-30
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Maize,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Maize,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Maize,,2024-04-30
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Maize,,2024-04-30
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Maize,,2024-04-30
+Lilongwe,Chilaza,Lilongwe,Msundwe,April,2024,Maize,,2024-04-30
+Lilongwe,Demera,Lilongwe,Kasiya,April,2024,Maize,437.5,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Lilongwe,April,2024,Maize,600.0,2024-04-30
+Lilongwe,Mitundu,Lilongwe,Mitundu,April,2024,Maize,627.78,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Nanjiri,April,2024,Maize,650.0,2024-04-30
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,April,2024,Maize,600.0,2024-04-30
+Lilongwe,Lobi,Dedza,Thete,April,2024,Maize,,2024-04-30
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Maize,,2024-04-30
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Maize,542.7125,2024-04-30
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Maize,,2024-04-30
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Maize,998.26,2024-04-30
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Maize,,2024-04-30
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Maize,,2024-04-30
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Maize,,2024-04-30
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Maize,,2024-04-30
+Machinga,Bazale,Balaka,Balaka,April,2024,Maize,757.7975,2024-04-30
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Maize,,2024-04-30
+Machinga,Mpiya,Machinga,Namwera,April,2024,Maize,,2024-04-30
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Maize,,2024-04-30
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Maize,800.0,2024-04-30
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Maize,,2024-04-30
+Machinga,Mpokwa,Zomba,Jali,April,2024,Maize,,2024-04-30
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Maize,,2024-04-30
+Machinga,Thondwe,Zomba,Zomba,April,2024,Maize,,2024-04-30
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Maize,,2024-04-30
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Maize,587.5,2024-04-30
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Maize,998.26,2024-04-30
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Maize,,2024-04-30
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Maize,1933.33,2024-04-30
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Maize,850.0,2024-04-30
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Maize,700.0,2024-04-30
+Blantyre,Neno,Neno,Neno,April,2024,Maize,637.5,2024-04-30
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Maize,,2024-04-30
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Maize,,2024-04-30
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Maize,570.93,2024-04-30
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Maize,662.595,2024-04-30
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Maize,662.595,2024-04-30
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Maize,675.0875,2024-04-30
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Maize,653.1925,2024-04-30
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Maize,,2024-04-30
+Karonga,Misuku,Chitipa,Misuku,May,2024,Maize,,2024-05-31
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Maize,,2024-05-31
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Maize,,2024-05-31
+Karonga,Mpata,Karonga,Karonga,May,2024,Maize,473.6,2024-05-31
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Maize,575.635,2024-05-31
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Maize,764.445,2024-05-31
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Maize,,2024-05-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,May,2024,Maize,,2024-05-31
+Mzuzu,Kazomba,Mzimba,Mzimba,May,2024,Maize,500.4625,2024-05-31
+Mzuzu,Mbawa,Mzimba,Embangweni,May,2024,Maize,,2024-05-31
+Mzuzu,Champhira,Mzimba,Jenda,May,2024,Maize,,2024-05-31
+Mzuzu,Mpamba,Nkhata,Mpamba,May,2024,Maize,,2024-05-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,May,2024,Maize,722.3775,2024-05-31
+Mzuzu,Chintheche,Nkhata,Chintheche,May,2024,Maize,604.4225,2024-05-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Maize,720.4825,2024-05-31
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Maize,700.0,2024-05-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Maize,562.5,2024-05-31
+Salima,Tembwe,Salima,Salima,May,2024,Maize,,2024-05-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Maize,,2024-05-31
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Maize,,2024-05-31
+Kasungu,Nachisaka,Dowa,Dowa,May,2024,Maize,562.5,2024-05-31
+Kasungu,Mponela,Dowa,Mponela,May,2024,Maize,,2024-05-31
+Kasungu,Madisi,Dowa,Madisi,May,2024,Maize,,2024-05-31
+Kasungu,Bowe,Dowa,Bowe,May,2024,Maize,,2024-05-31
+Kasungu,Nambuma,Dowa,Nambuma,May,2024,Maize,622.5,2024-05-31
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Maize,650.0,2024-05-31
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Maize,650.0,2024-05-31
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Maize,597.5,2024-05-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Maize,550.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Maize,647.43,2024-05-31
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Maize,,2024-05-31
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Maize,600.0,2024-05-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,May,2024,Maize,,2024-05-31
+Lilongwe,Demera,Lilongwe,Kasiya,May,2024,Maize,,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,May,2024,Maize,,2024-05-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,May,2024,Maize,500.0,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,May,2024,Maize,600.0,2024-05-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,May,2024,Maize,650.0,2024-05-31
+Lilongwe,Lobi,Dedza,Thete,May,2024,Maize,,2024-05-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Maize,,2024-05-31
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Maize,525.17,2024-05-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Maize,540.0,2024-05-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Maize,530.0,2024-05-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Maize,567.5,2024-05-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Maize,522.5,2024-05-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Maize,560.0,2024-05-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Maize,,2024-05-31
+Machinga,Bazale,Balaka,Balaka,May,2024,Maize,633.265,2024-05-31
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Maize,,2024-05-31
+Machinga,Mpiya,Machinga,Namwera,May,2024,Maize,590.0,2024-05-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Maize,625.0,2024-05-31
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Maize,637.5,2024-05-31
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Maize,,2024-05-31
+Machinga,Mpokwa,Zomba,Jali,May,2024,Maize,,2024-05-31
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Maize,,2024-05-31
+Machinga,Thondwe,Zomba,Zomba,May,2024,Maize,,2024-05-31
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Maize,,2024-05-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Maize,725.3075,2024-05-31
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Maize,,2024-05-31
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Maize,,2024-05-31
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Maize,,2024-05-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Maize,577.6525,2024-05-31
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Maize,640.0,2024-05-31
+Blantyre,Neno,Neno,Neno,May,2024,Maize,600.0,2024-05-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Maize,,2024-05-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Maize,,2024-05-31
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Maize,,2024-05-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Maize,517.815,2024-05-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Maize,530.3075,2024-05-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Maize,508.4116667,2024-05-31
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Maize,,2024-05-31
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Maize,700.0025,2024-05-31
+Karonga,Misuku,Chitipa,Misuku,January,2024,Rice,1369.19,2024-01-31
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Rice,,2024-01-31
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Rice,,2024-01-31
+Karonga,Mpata,Karonga,Karonga,January,2024,Rice,1667.45,2024-01-31
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Rice,1713.21,2024-01-31
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Rice,,2024-01-31
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Rice,,2024-01-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,January,2024,Rice,2288.9,2024-01-31
+Mzuzu,Kazomba,Mzimba,Mzimba,January,2024,Rice,,2024-01-31
+Mzuzu,Mbawa,Mzimba,Embangweni,January,2024,Rice,,2024-01-31
+Mzuzu,Champhira,Mzimba,Jenda,January,2024,Rice,,2024-01-31
+Mzuzu,Mpamba,Nkhata,Mpamba,January,2024,Rice,,2024-01-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,January,2024,Rice,1221.34,2024-01-31
+Mzuzu,Chintheche,Nkhata,Chintheche,January,2024,Rice,1828.71,2024-01-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Rice,1600.0,2024-01-31
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Rice,1900.0,2024-01-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Rice,,2024-01-31
+Salima,Tembwe,Salima,Salima,January,2024,Rice,1900.0,2024-01-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Rice,,2024-01-31
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Rice,,2024-01-31
+Kasungu,Nachisaka,Dowa,Dowa,January,2024,Rice,,2024-01-31
+Kasungu,Mponela,Dowa,Mponela,January,2024,Rice,,2024-01-31
+Kasungu,Madisi,Dowa,Madisi,January,2024,Rice,,2024-01-31
+Kasungu,Bowe,Dowa,Bowe,January,2024,Rice,,2024-01-31
+Kasungu,Nambuma,Dowa,Nambuma,January,2024,Rice,,2024-01-31
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Rice,,2024-01-31
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Rice,2000.0,2024-01-31
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Rice,2200.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Rice,2000.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Rice,2000.0,2024-01-31
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Rice,,2024-01-31
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Rice,,2024-01-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,January,2024,Rice,,2024-01-31
+Lilongwe,Demera,Lilongwe,Kasiya,January,2024,Rice,,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,January,2024,Rice,,2024-01-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,January,2024,Rice,2200.0,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,January,2024,Rice,,2024-01-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,January,2024,Rice,,2024-01-31
+Lilongwe,Lobi,Dedza,Thete,January,2024,Rice,2000.0,2024-01-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Rice,1440.0,2024-01-31
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Rice,2000.17,2024-01-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Rice,2000.0,2024-01-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Rice,,2024-01-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Rice,,2024-01-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Rice,,2024-01-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Rice,,2024-01-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Rice,,2024-01-31
+Machinga,Bazale,Balaka,Balaka,January,2024,Rice,2029.09,2024-01-31
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Rice,,2024-01-31
+Machinga,Mpiya,Machinga,Namwera,January,2024,Rice,1926.9,2024-01-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Rice,2000.0,2024-01-31
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Rice,1900.0,2024-01-31
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Rice,1600.0,2024-01-31
+Machinga,Mpokwa,Zomba,Jali,January,2024,Rice,1570.35,2024-01-31
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Rice,1500.86,2024-01-31
+Machinga,Thondwe,Zomba,Zomba,January,2024,Rice,2000.56,2024-01-31
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Rice,1800.97,2024-01-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Rice,2038.18,2024-01-31
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Rice,1881.3,2024-01-31
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Rice,2008.59,2024-01-31
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Rice,1900.05,2024-01-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Rice,2500.0,2024-01-31
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Rice,2800.0,2024-01-31
+Blantyre,Neno,Neno,Neno,January,2024,Rice,2000.0,2024-01-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Rice,,2024-01-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Rice,1900.0,2024-01-31
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Rice,2500.0,2024-01-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Rice,2350.0,2024-01-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Rice,2450.0,2024-01-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Rice,2400.0,2024-01-31
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Rice,2000.0,2024-01-31
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Rice,2400.0,2024-01-31
+Karonga,Misuku,Chitipa,Misuku,February,2024,Rice,,2024-02-29
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Rice,,2024-02-29
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Rice,,2024-02-29
+Karonga,Mpata,Karonga,Karonga,February,2024,Rice,,2024-02-29
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Rice,,2024-02-29
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Rice,,2024-02-29
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Rice,1913.79,2024-02-29
+Mzuzu,Emsizini,Mzimba,Mzuzu,February,2024,Rice,2278.0,2024-02-29
+Mzuzu,Kazomba,Mzimba,Mzimba,February,2024,Rice,1967.0,2024-02-29
+Mzuzu,Mbawa,Mzimba,Embangweni,February,2024,Rice,,2024-02-29
+Mzuzu,Champhira,Mzimba,Jenda,February,2024,Rice,,2024-02-29
+Mzuzu,Mpamba,Nkhata,Mpamba,February,2024,Rice,,2024-02-29
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,February,2024,Rice,,2024-02-29
+Mzuzu,Chintheche,Nkhata,Chintheche,February,2024,Rice,1828.56,2024-02-29
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Rice,1800.0,2024-02-29
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Rice,,2024-02-29
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Rice,2000.0,2024-02-29
+Salima,Tembwe,Salima,Salima,February,2024,Rice,1825.0,2024-02-29
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Rice,,2024-02-29
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Rice,,2024-02-29
+Kasungu,Nachisaka,Dowa,Dowa,February,2024,Rice,,2024-02-29
+Kasungu,Mponela,Dowa,Mponela,February,2024,Rice,,2024-02-29
+Kasungu,Madisi,Dowa,Madisi,February,2024,Rice,,2024-02-29
+Kasungu,Bowe,Dowa,Bowe,February,2024,Rice,,2024-02-29
+Kasungu,Nambuma,Dowa,Nambuma,February,2024,Rice,,2024-02-29
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Rice,2000.0,2024-02-29
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Rice,2000.0,2024-02-29
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Rice,2000.0,2024-02-29
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Rice,2000.0,2024-02-29
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Rice,2000.0,2024-02-29
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Rice,,2024-02-29
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Rice,,2024-02-29
+Lilongwe,Chilaza,Lilongwe,Msundwe,February,2024,Rice,,2024-02-29
+Lilongwe,Demera,Lilongwe,Kasiya,February,2024,Rice,,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Lilongwe,February,2024,Rice,,2024-02-29
+Lilongwe,Mitundu,Lilongwe,Mitundu,February,2024,Rice,1950.0,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Nanjiri,February,2024,Rice,1800.0,2024-02-29
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,February,2024,Rice,,2024-02-29
+Lilongwe,Lobi,Dedza,Thete,February,2024,Rice,,2024-02-29
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Rice,,2024-02-29
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Rice,2000.22,2024-02-29
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Rice,1900.0,2024-02-29
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Rice,,2024-02-29
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Rice,,2024-02-29
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Rice,,2024-02-29
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Rice,,2024-02-29
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Rice,,2024-02-29
+Machinga,Bazale,Balaka,Balaka,February,2024,Rice,2180.88,2024-02-29
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Rice,,2024-02-29
+Machinga,Mpiya,Machinga,Namwera,February,2024,Rice,1581.71,2024-02-29
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Rice,2000.0,2024-02-29
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Rice,1848.25,2024-02-29
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Rice,2000.0,2024-02-29
+Machinga,Mpokwa,Zomba,Jali,February,2024,Rice,,2024-02-29
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Rice,,2024-02-29
+Machinga,Thondwe,Zomba,Zomba,February,2024,Rice,,2024-02-29
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Rice,,2024-02-29
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Rice,1975.405,2024-02-29
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Rice,,2024-02-29
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Rice,,2024-02-29
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Rice,1934.33,2024-02-29
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Rice,,2024-02-29
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Rice,2800.0,2024-02-29
+Blantyre,Neno,Neno,Neno,February,2024,Rice,2000.0,2024-02-29
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Rice,,2024-02-29
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Rice,2200.0,2024-02-29
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Rice,,2024-02-29
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Rice,2500.0,2024-02-29
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Rice,2600.0,2024-02-29
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Rice,2550.0,2024-02-29
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Rice,2000.0,2024-02-29
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Rice,2600.24,2024-02-29
+Karonga,Misuku,Chitipa,Misuku,March,2024,Rice,1397.5,2024-03-31
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Rice,,2024-03-31
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Rice,2024.16,2024-03-31
+Karonga,Mpata,Karonga,Karonga,March,2024,Rice,690.44,2024-03-31
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Rice,1645.71,2024-03-31
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Rice,1905.44,2024-03-31
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Rice,,2024-03-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,March,2024,Rice,,2024-03-31
+Mzuzu,Kazomba,Mzimba,Mzimba,March,2024,Rice,2072.55,2024-03-31
+Mzuzu,Mbawa,Mzimba,Embangweni,March,2024,Rice,,2024-03-31
+Mzuzu,Champhira,Mzimba,Jenda,March,2024,Rice,,2024-03-31
+Mzuzu,Mpamba,Nkhata,Mpamba,March,2024,Rice,,2024-03-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,March,2024,Rice,1230.94,2024-03-31
+Mzuzu,Chintheche,Nkhata,Chintheche,March,2024,Rice,1831.66,2024-03-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Rice,1700.0,2024-03-31
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Rice,,2024-03-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Rice,,2024-03-31
+Salima,Tembwe,Salima,Salima,March,2024,Rice,1800.0,2024-03-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Rice,,2024-03-31
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Rice,,2024-03-31
+Kasungu,Nachisaka,Dowa,Dowa,March,2024,Rice,1800.0,2024-03-31
+Kasungu,Mponela,Dowa,Mponela,March,2024,Rice,1600.0,2024-03-31
+Kasungu,Madisi,Dowa,Madisi,March,2024,Rice,,2024-03-31
+Kasungu,Bowe,Dowa,Bowe,March,2024,Rice,,2024-03-31
+Kasungu,Nambuma,Dowa,Nambuma,March,2024,Rice,2200.0,2024-03-31
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Rice,2000.0,2024-03-31
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Rice,1800.0,2024-03-31
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Rice,2050.0,2024-03-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Rice,2000.0,2024-03-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Rice,2000.0,2024-03-31
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Rice,,2024-03-31
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Rice,4000.0,2024-03-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,March,2024,Rice,,2024-03-31
+Lilongwe,Demera,Lilongwe,Kasiya,March,2024,Rice,,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,March,2024,Rice,2200.0,2024-03-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,March,2024,Rice,1975.0,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,March,2024,Rice,1800.0,2024-03-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,March,2024,Rice,,2024-03-31
+Lilongwe,Lobi,Dedza,Thete,March,2024,Rice,2000.0,2024-03-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Rice,,2024-03-31
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Rice,2000.2,2024-03-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Rice,1200.0,2024-03-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Rice,,2024-03-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Rice,,2024-03-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Rice,,2024-03-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Rice,1831.56,2024-03-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Rice,,2024-03-31
+Machinga,Bazale,Balaka,Balaka,March,2024,Rice,2131.48,2024-03-31
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Rice,,2024-03-31
+Machinga,Mpiya,Machinga,Namwera,March,2024,Rice,,2024-03-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Rice,2361.67,2024-03-31
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Rice,2299.45,2024-03-31
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Rice,2305.28,2024-03-31
+Machinga,Mpokwa,Zomba,Jali,March,2024,Rice,,2024-03-31
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Rice,,2024-03-31
+Machinga,Thondwe,Zomba,Zomba,March,2024,Rice,,2024-03-31
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Rice,,2024-03-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Rice,1950.42,2024-03-31
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Rice,,2024-03-31
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Rice,2039.43,2024-03-31
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Rice,1867.0,2024-03-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Rice,2217.5,2024-03-31
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Rice,2800.0,2024-03-31
+Blantyre,Neno,Neno,Neno,March,2024,Rice,2000.0,2024-03-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Rice,,2024-03-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Rice,2100.0,2024-03-31
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Rice,2106.11,2024-03-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Rice,2500.0,2024-03-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Rice,2600.0,2024-03-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Rice,2550.0,2024-03-31
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Rice,2000.0,2024-03-31
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Rice,2600.0,2024-03-31
+Karonga,Misuku,Chitipa,Misuku,April,2024,Rice,1400.88,2024-04-30
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Rice,,2024-04-30
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Rice,,2024-04-30
+Karonga,Mpata,Karonga,Karonga,April,2024,Rice,,2024-04-30
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Rice,1134.35,2024-04-30
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Rice,,2024-04-30
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Rice,,2024-04-30
+Mzuzu,Emsizini,Mzimba,Mzuzu,April,2024,Rice,,2024-04-30
+Mzuzu,Kazomba,Mzimba,Mzimba,April,2024,Rice,2033.39,2024-04-30
+Mzuzu,Mbawa,Mzimba,Embangweni,April,2024,Rice,,2024-04-30
+Mzuzu,Champhira,Mzimba,Jenda,April,2024,Rice,,2024-04-30
+Mzuzu,Mpamba,Nkhata,Mpamba,April,2024,Rice,,2024-04-30
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,April,2024,Rice,1159.23,2024-04-30
+Mzuzu,Chintheche,Nkhata,Chintheche,April,2024,Rice,1828.6,2024-04-30
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Rice,1700.0,2024-04-30
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Rice,,2024-04-30
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Rice,,2024-04-30
+Salima,Tembwe,Salima,Salima,April,2024,Rice,2000.0,2024-04-30
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Rice,,2024-04-30
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Rice,,2024-04-30
+Kasungu,Nachisaka,Dowa,Dowa,April,2024,Rice,1800.0,2024-04-30
+Kasungu,Mponela,Dowa,Mponela,April,2024,Rice,,2024-04-30
+Kasungu,Madisi,Dowa,Madisi,April,2024,Rice,,2024-04-30
+Kasungu,Bowe,Dowa,Bowe,April,2024,Rice,2000.0,2024-04-30
+Kasungu,Nambuma,Dowa,Nambuma,April,2024,Rice,,2024-04-30
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Rice,,2024-04-30
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Rice,,2024-04-30
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Rice,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Rice,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Rice,,2024-04-30
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Rice,,2024-04-30
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Rice,,2024-04-30
+Lilongwe,Chilaza,Lilongwe,Msundwe,April,2024,Rice,,2024-04-30
+Lilongwe,Demera,Lilongwe,Kasiya,April,2024,Rice,2200.0,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Lilongwe,April,2024,Rice,2200.0,2024-04-30
+Lilongwe,Mitundu,Lilongwe,Mitundu,April,2024,Rice,2050.0,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Nanjiri,April,2024,Rice,1920.0,2024-04-30
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,April,2024,Rice,1930.0,2024-04-30
+Lilongwe,Lobi,Dedza,Thete,April,2024,Rice,,2024-04-30
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Rice,,2024-04-30
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Rice,2000.35,2024-04-30
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Rice,,2024-04-30
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Rice,,2024-04-30
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Rice,,2024-04-30
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Rice,,2024-04-30
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Rice,,2024-04-30
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Rice,,2024-04-30
+Machinga,Bazale,Balaka,Balaka,April,2024,Rice,2257.66,2024-04-30
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Rice,,2024-04-30
+Machinga,Mpiya,Machinga,Namwera,April,2024,Rice,,2024-04-30
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Rice,,2024-04-30
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Rice,,2024-04-30
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Rice,,2024-04-30
+Machinga,Mpokwa,Zomba,Jali,April,2024,Rice,,2024-04-30
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Rice,,2024-04-30
+Machinga,Thondwe,Zomba,Zomba,April,2024,Rice,,2024-04-30
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Rice,,2024-04-30
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Rice,2000.0,2024-04-30
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Rice,1863.4,2024-04-30
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Rice,,2024-04-30
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Rice,1800.0,2024-04-30
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Rice,2217.5,2024-04-30
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Rice,2500.0,2024-04-30
+Blantyre,Neno,Neno,Neno,April,2024,Rice,2000.0,2024-04-30
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Rice,,2024-04-30
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Rice,,2024-04-30
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Rice,2015.84,2024-04-30
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Rice,2500.0,2024-04-30
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Rice,2600.0,2024-04-30
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Rice,2550.0,2024-04-30
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Rice,,2024-04-30
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Rice,,2024-04-30
+Karonga,Misuku,Chitipa,Misuku,May,2024,Rice,,2024-05-31
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Rice,,2024-05-31
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Rice,,2024-05-31
+Karonga,Mpata,Karonga,Karonga,May,2024,Rice,1200.0,2024-05-31
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Rice,1321.404,2024-05-31
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Rice,1826.3,2024-05-31
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Rice,,2024-05-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,May,2024,Rice,,2024-05-31
+Mzuzu,Kazomba,Mzimba,Mzimba,May,2024,Rice,524.0,2024-05-31
+Mzuzu,Mbawa,Mzimba,Embangweni,May,2024,Rice,,2024-05-31
+Mzuzu,Champhira,Mzimba,Jenda,May,2024,Rice,,2024-05-31
+Mzuzu,Mpamba,Nkhata,Mpamba,May,2024,Rice,,2024-05-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,May,2024,Rice,1159.33,2024-05-31
+Mzuzu,Chintheche,Nkhata,Chintheche,May,2024,Rice,1583.33,2024-05-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Rice,1600.0,2024-05-31
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Rice,1500.0,2024-05-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Rice,1950.0,2024-05-31
+Salima,Tembwe,Salima,Salima,May,2024,Rice,,2024-05-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Rice,,2024-05-31
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Rice,,2024-05-31
+Kasungu,Nachisaka,Dowa,Dowa,May,2024,Rice,1800.0,2024-05-31
+Kasungu,Mponela,Dowa,Mponela,May,2024,Rice,,2024-05-31
+Kasungu,Madisi,Dowa,Madisi,May,2024,Rice,,2024-05-31
+Kasungu,Bowe,Dowa,Bowe,May,2024,Rice,,2024-05-31
+Kasungu,Nambuma,Dowa,Nambuma,May,2024,Rice,2140.0,2024-05-31
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Rice,2000.0,2024-05-31
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Rice,2000.0,2024-05-31
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Rice,2000.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Rice,2000.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Rice,2000.0,2024-05-31
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Rice,,2024-05-31
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Rice,2000.0,2024-05-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,May,2024,Rice,,2024-05-31
+Lilongwe,Demera,Lilongwe,Kasiya,May,2024,Rice,,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,May,2024,Rice,2200.0,2024-05-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,May,2024,Rice,1920.0,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,May,2024,Rice,1800.0,2024-05-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,May,2024,Rice,1550.0,2024-05-31
+Lilongwe,Lobi,Dedza,Thete,May,2024,Rice,,2024-05-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Rice,,2024-05-31
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Rice,2000.494,2024-05-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Rice,1875.0,2024-05-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Rice,1758.0,2024-05-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Rice,,2024-05-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Rice,,2024-05-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Rice,,2024-05-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Rice,,2024-05-31
+Machinga,Bazale,Balaka,Balaka,May,2024,Rice,2178.77,2024-05-31
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Rice,,2024-05-31
+Machinga,Mpiya,Machinga,Namwera,May,2024,Rice,2240.0,2024-05-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Rice,3034.636,2024-05-31
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Rice,2000.0,2024-05-31
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Rice,,2024-05-31
+Machinga,Mpokwa,Zomba,Jali,May,2024,Rice,1500.35,2024-05-31
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Rice,1650.25,2024-05-31
+Machinga,Thondwe,Zomba,Zomba,May,2024,Rice,1800.25,2024-05-31
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Rice,1600.97,2024-05-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Rice,2012.7675,2024-05-31
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Rice,1992.28,2024-05-31
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Rice,,2024-05-31
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Rice,,2024-05-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Rice,1862.5,2024-05-31
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Rice,2000.0,2024-05-31
+Blantyre,Neno,Neno,Neno,May,2024,Rice,2000.0,2024-05-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Rice,,2024-05-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Rice,2200.0,2024-05-31
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Rice,,2024-05-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Rice,1350.0,2024-05-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Rice,1550.0,2024-05-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Rice,1500.0,2024-05-31
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Rice,,2024-05-31
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Rice,2150.08,2024-05-31
+Karonga,Misuku,Chitipa,Misuku,January,2024,Soya beans,600.83,2024-01-31
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Soya beans,,2024-01-31
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Soya beans,,2024-01-31
+Karonga,Mpata,Karonga,Karonga,January,2024,Soya beans,1842.6,2024-01-31
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Soya beans,,2024-01-31
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Soya beans,,2024-01-31
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Soya beans,,2024-01-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,January,2024,Soya beans,2237.0,2024-01-31
+Mzuzu,Kazomba,Mzimba,Mzimba,January,2024,Soya beans,,2024-01-31
+Mzuzu,Mbawa,Mzimba,Embangweni,January,2024,Soya beans,1036.3,2024-01-31
+Mzuzu,Champhira,Mzimba,Jenda,January,2024,Soya beans,800.0,2024-01-31
+Mzuzu,Mpamba,Nkhata,Mpamba,January,2024,Soya beans,,2024-01-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,January,2024,Soya beans,833.3,2024-01-31
+Mzuzu,Chintheche,Nkhata,Chintheche,January,2024,Soya beans,,2024-01-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Soya beans,1300.0,2024-01-31
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Soya beans,1100.0,2024-01-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Soya beans,,2024-01-31
+Salima,Tembwe,Salima,Salima,January,2024,Soya beans,1200.0,2024-01-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Soya beans,1000.0,2024-01-31
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Soya beans,1000.0,2024-01-31
+Kasungu,Nachisaka,Dowa,Dowa,January,2024,Soya beans,,2024-01-31
+Kasungu,Mponela,Dowa,Mponela,January,2024,Soya beans,,2024-01-31
+Kasungu,Madisi,Dowa,Madisi,January,2024,Soya beans,,2024-01-31
+Kasungu,Bowe,Dowa,Bowe,January,2024,Soya beans,,2024-01-31
+Kasungu,Nambuma,Dowa,Nambuma,January,2024,Soya beans,,2024-01-31
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Soya beans,,2024-01-31
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Soya beans,700.0,2024-01-31
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Soya beans,860.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Soya beans,600.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Soya beans,,2024-01-31
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Soya beans,1000.0,2024-01-31
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Soya beans,1092.6,2024-01-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,January,2024,Soya beans,,2024-01-31
+Lilongwe,Demera,Lilongwe,Kasiya,January,2024,Soya beans,,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,January,2024,Soya beans,,2024-01-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,January,2024,Soya beans,1200.0,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,January,2024,Soya beans,900.0,2024-01-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,January,2024,Soya beans,,2024-01-31
+Lilongwe,Lobi,Dedza,Thete,January,2024,Soya beans,1000.0,2024-01-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Soya beans,1500.0,2024-01-31
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Soya beans,1000.1,2024-01-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Soya beans,587.5,2024-01-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Soya beans,,2024-01-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Soya beans,,2024-01-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Soya beans,,2024-01-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Soya beans,,2024-01-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Soya beans,,2024-01-31
+Machinga,Bazale,Balaka,Balaka,January,2024,Soya beans,1345.72,2024-01-31
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Soya beans,,2024-01-31
+Machinga,Mpiya,Machinga,Namwera,January,2024,Soya beans,1480.74,2024-01-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Soya beans,1550.0,2024-01-31
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Soya beans,1625.0,2024-01-31
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Soya beans,1375.0,2024-01-31
+Machinga,Mpokwa,Zomba,Jali,January,2024,Soya beans,1350.29,2024-01-31
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Soya beans,1571.13,2024-01-31
+Machinga,Thondwe,Zomba,Zomba,January,2024,Soya beans,1680.43,2024-01-31
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Soya beans,1300.14,2024-01-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Soya beans,1175.4,2024-01-31
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Soya beans,995.46,2024-01-31
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Soya beans,1435.01,2024-01-31
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Soya beans,1200.0,2024-01-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Soya beans,1700.0,2024-01-31
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Soya beans,1018.19,2024-01-31
+Blantyre,Neno,Neno,Neno,January,2024,Soya beans,1300.0,2024-01-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Soya beans,,2024-01-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Soya beans,850.0,2024-01-31
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Soya beans,1200.0,2024-01-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Soya beans,1350.0,2024-01-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Soya beans,,2024-01-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Soya beans,1400.0,2024-01-31
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Soya beans,,2024-01-31
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Soya beans,,2024-01-31
+Karonga,Misuku,Chitipa,Misuku,February,2024,Soya beans,,2024-02-29
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Soya beans,,2024-02-29
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Soya beans,,2024-02-29
+Karonga,Mpata,Karonga,Karonga,February,2024,Soya beans,,2024-02-29
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Soya beans,,2024-02-29
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Soya beans,1632.73,2024-02-29
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Soya beans,,2024-02-29
+Mzuzu,Emsizini,Mzimba,Mzuzu,February,2024,Soya beans,1562.6,2024-02-29
+Mzuzu,Kazomba,Mzimba,Mzimba,February,2024,Soya beans,735.33,2024-02-29
+Mzuzu,Mbawa,Mzimba,Embangweni,February,2024,Soya beans,1332.1,2024-02-29
+Mzuzu,Champhira,Mzimba,Jenda,February,2024,Soya beans,816.4,2024-02-29
+Mzuzu,Mpamba,Nkhata,Mpamba,February,2024,Soya beans,,2024-02-29
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,February,2024,Soya beans,,2024-02-29
+Mzuzu,Chintheche,Nkhata,Chintheche,February,2024,Soya beans,,2024-02-29
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Soya beans,1300.0,2024-02-29
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Soya beans,,2024-02-29
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Soya beans,1000.0,2024-02-29
+Salima,Tembwe,Salima,Salima,February,2024,Soya beans,1500.0,2024-02-29
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Soya beans,954.2,2024-02-29
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Soya beans,,2024-02-29
+Kasungu,Nachisaka,Dowa,Dowa,February,2024,Soya beans,,2024-02-29
+Kasungu,Mponela,Dowa,Mponela,February,2024,Soya beans,,2024-02-29
+Kasungu,Madisi,Dowa,Madisi,February,2024,Soya beans,,2024-02-29
+Kasungu,Bowe,Dowa,Bowe,February,2024,Soya beans,,2024-02-29
+Kasungu,Nambuma,Dowa,Nambuma,February,2024,Soya beans,,2024-02-29
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Soya beans,700.0,2024-02-29
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Soya beans,743.3333333,2024-02-29
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Soya beans,860.0,2024-02-29
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Soya beans,600.0,2024-02-29
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Soya beans,450.84,2024-02-29
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Soya beans,,2024-02-29
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Soya beans,1500.0,2024-02-29
+Lilongwe,Chilaza,Lilongwe,Msundwe,February,2024,Soya beans,,2024-02-29
+Lilongwe,Demera,Lilongwe,Kasiya,February,2024,Soya beans,,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Lilongwe,February,2024,Soya beans,,2024-02-29
+Lilongwe,Mitundu,Lilongwe,Mitundu,February,2024,Soya beans,1050.0,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Nanjiri,February,2024,Soya beans,900.0,2024-02-29
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,February,2024,Soya beans,,2024-02-29
+Lilongwe,Lobi,Dedza,Thete,February,2024,Soya beans,1000.0,2024-02-29
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Soya beans,,2024-02-29
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Soya beans,1000.19,2024-02-29
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Soya beans,587.5,2024-02-29
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Soya beans,,2024-02-29
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Soya beans,,2024-02-29
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Soya beans,,2024-02-29
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Soya beans,1020.7,2024-02-29
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Soya beans,,2024-02-29
+Machinga,Bazale,Balaka,Balaka,February,2024,Soya beans,4010.36,2024-02-29
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Soya beans,,2024-02-29
+Machinga,Mpiya,Machinga,Namwera,February,2024,Soya beans,1398.5,2024-02-29
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Soya beans,1297.5,2024-02-29
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Soya beans,1657.5,2024-02-29
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Soya beans,1150.0,2024-02-29
+Machinga,Mpokwa,Zomba,Jali,February,2024,Soya beans,,2024-02-29
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Soya beans,,2024-02-29
+Machinga,Thondwe,Zomba,Zomba,February,2024,Soya beans,,2024-02-29
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Soya beans,,2024-02-29
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Soya beans,1975.41,2024-02-29
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Soya beans,,2024-02-29
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Soya beans,,2024-02-29
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Soya beans,,2024-02-29
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Soya beans,,2024-02-29
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Soya beans,1209.31,2024-02-29
+Blantyre,Neno,Neno,Neno,February,2024,Soya beans,1300.0,2024-02-29
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Soya beans,,2024-02-29
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Soya beans,2200.0,2024-02-29
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Soya beans,,2024-02-29
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Soya beans,1500.0,2024-02-29
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Soya beans,,2024-02-29
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Soya beans,1600.0,2024-02-29
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Soya beans,,2024-02-29
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Soya beans,,2024-02-29
+Karonga,Misuku,Chitipa,Misuku,March,2024,Soya beans,730.81,2024-03-31
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Soya beans,,2024-03-31
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Soya beans,,2024-03-31
+Karonga,Mpata,Karonga,Karonga,March,2024,Soya beans,1170.86,2024-03-31
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Soya beans,,2024-03-31
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Soya beans,927.07,2024-03-31
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Soya beans,,2024-03-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,March,2024,Soya beans,,2024-03-31
+Mzuzu,Kazomba,Mzimba,Mzimba,March,2024,Soya beans,1518.84,2024-03-31
+Mzuzu,Mbawa,Mzimba,Embangweni,March,2024,Soya beans,1336.4,2024-03-31
+Mzuzu,Champhira,Mzimba,Jenda,March,2024,Soya beans,820.4,2024-03-31
+Mzuzu,Mpamba,Nkhata,Mpamba,March,2024,Soya beans,,2024-03-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,March,2024,Soya beans,,2024-03-31
+Mzuzu,Chintheche,Nkhata,Chintheche,March,2024,Soya beans,,2024-03-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Soya beans,1300.0,2024-03-31
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Soya beans,,2024-03-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Soya beans,,2024-03-31
+Salima,Tembwe,Salima,Salima,March,2024,Soya beans,1500.0,2024-03-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Soya beans,986.7,2024-03-31
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Soya beans,,2024-03-31
+Kasungu,Nachisaka,Dowa,Dowa,March,2024,Soya beans,1000.0,2024-03-31
+Kasungu,Mponela,Dowa,Mponela,March,2024,Soya beans,800.0,2024-03-31
+Kasungu,Madisi,Dowa,Madisi,March,2024,Soya beans,,2024-03-31
+Kasungu,Bowe,Dowa,Bowe,March,2024,Soya beans,,2024-03-31
+Kasungu,Nambuma,Dowa,Nambuma,March,2024,Soya beans,,2024-03-31
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Soya beans,700.0,2024-03-31
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Soya beans,750.0,2024-03-31
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Soya beans,786.67,2024-03-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Soya beans,600.0,2024-03-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Soya beans,,2024-03-31
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Soya beans,983.3,2024-03-31
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Soya beans,1400.0,2024-03-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,March,2024,Soya beans,,2024-03-31
+Lilongwe,Demera,Lilongwe,Kasiya,March,2024,Soya beans,,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,March,2024,Soya beans,1750.0,2024-03-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,March,2024,Soya beans,,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,March,2024,Soya beans,900.0,2024-03-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,March,2024,Soya beans,,2024-03-31
+Lilongwe,Lobi,Dedza,Thete,March,2024,Soya beans,,2024-03-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Soya beans,,2024-03-31
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Soya beans,1000.0,2024-03-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Soya beans,587.5,2024-03-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Soya beans,,2024-03-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Soya beans,,2024-03-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Soya beans,,2024-03-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Soya beans,,2024-03-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Soya beans,,2024-03-31
+Machinga,Bazale,Balaka,Balaka,March,2024,Soya beans,1255.73,2024-03-31
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Soya beans,,2024-03-31
+Machinga,Mpiya,Machinga,Namwera,March,2024,Soya beans,,2024-03-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Soya beans,2041.1,2024-03-31
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Soya beans,2435.3,2024-03-31
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Soya beans,1971.41,2024-03-31
+Machinga,Mpokwa,Zomba,Jali,March,2024,Soya beans,,2024-03-31
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Soya beans,,2024-03-31
+Machinga,Thondwe,Zomba,Zomba,March,2024,Soya beans,,2024-03-31
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Soya beans,,2024-03-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Soya beans,1212.925,2024-03-31
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Soya beans,,2024-03-31
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Soya beans,1606.59,2024-03-31
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Soya beans,1037.56,2024-03-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Soya beans,1700.0,2024-03-31
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Soya beans,1200.0,2024-03-31
+Blantyre,Neno,Neno,Neno,March,2024,Soya beans,1200.0,2024-03-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Soya beans,,2024-03-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Soya beans,780.68,2024-03-31
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Soya beans,,2024-03-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Soya beans,1500.0,2024-03-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Soya beans,,2024-03-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Soya beans,1600.0,2024-03-31
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Soya beans,,2024-03-31
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Soya beans,,2024-03-31
+Karonga,Misuku,Chitipa,Misuku,April,2024,Soya beans,730.6075,2024-04-30
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Soya beans,,2024-04-30
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Soya beans,,2024-04-30
+Karonga,Mpata,Karonga,Karonga,April,2024,Soya beans,,2024-04-30
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Soya beans,,2024-04-30
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Soya beans,,2024-04-30
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Soya beans,,2024-04-30
+Mzuzu,Emsizini,Mzimba,Mzuzu,April,2024,Soya beans,,2024-04-30
+Mzuzu,Kazomba,Mzimba,Mzimba,April,2024,Soya beans,1378.27,2024-04-30
+Mzuzu,Mbawa,Mzimba,Embangweni,April,2024,Soya beans,816.7,2024-04-30
+Mzuzu,Champhira,Mzimba,Jenda,April,2024,Soya beans,800.0,2024-04-30
+Mzuzu,Mpamba,Nkhata,Mpamba,April,2024,Soya beans,,2024-04-30
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,April,2024,Soya beans,,2024-04-30
+Mzuzu,Chintheche,Nkhata,Chintheche,April,2024,Soya beans,,2024-04-30
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Soya beans,1300.0,2024-04-30
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Soya beans,,2024-04-30
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Soya beans,,2024-04-30
+Salima,Tembwe,Salima,Salima,April,2024,Soya beans,1600.0,2024-04-30
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Soya beans,1000.0,2024-04-30
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Soya beans,1000.0,2024-04-30
+Kasungu,Nachisaka,Dowa,Dowa,April,2024,Soya beans,,2024-04-30
+Kasungu,Mponela,Dowa,Mponela,April,2024,Soya beans,,2024-04-30
+Kasungu,Madisi,Dowa,Madisi,April,2024,Soya beans,,2024-04-30
+Kasungu,Bowe,Dowa,Bowe,April,2024,Soya beans,887.5,2024-04-30
+Kasungu,Nambuma,Dowa,Nambuma,April,2024,Soya beans,,2024-04-30
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Soya beans,,2024-04-30
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Soya beans,,2024-04-30
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Soya beans,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Soya beans,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Soya beans,,2024-04-30
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Soya beans,1183.3,2024-04-30
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Soya beans,1385.7,2024-04-30
+Lilongwe,Chilaza,Lilongwe,Msundwe,April,2024,Soya beans,,2024-04-30
+Lilongwe,Demera,Lilongwe,Kasiya,April,2024,Soya beans,733.3,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Lilongwe,April,2024,Soya beans,1200.0,2024-04-30
+Lilongwe,Mitundu,Lilongwe,Mitundu,April,2024,Soya beans,850.0,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Nanjiri,April,2024,Soya beans,600.0,2024-04-30
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,April,2024,Soya beans,690.0,2024-04-30
+Lilongwe,Lobi,Dedza,Thete,April,2024,Soya beans,762.5,2024-04-30
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Soya beans,,2024-04-30
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Soya beans,925.55,2024-04-30
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Soya beans,,2024-04-30
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Soya beans,,2024-04-30
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Soya beans,,2024-04-30
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Soya beans,,2024-04-30
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Soya beans,1284.6,2024-04-30
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Soya beans,,2024-04-30
+Machinga,Bazale,Balaka,Balaka,April,2024,Soya beans,1457.28,2024-04-30
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Soya beans,,2024-04-30
+Machinga,Mpiya,Machinga,Namwera,April,2024,Soya beans,,2024-04-30
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Soya beans,,2024-04-30
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Soya beans,,2024-04-30
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Soya beans,,2024-04-30
+Machinga,Mpokwa,Zomba,Jali,April,2024,Soya beans,,2024-04-30
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Soya beans,,2024-04-30
+Machinga,Thondwe,Zomba,Zomba,April,2024,Soya beans,,2024-04-30
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Soya beans,,2024-04-30
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Soya beans,1100.45,2024-04-30
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Soya beans,1041.41,2024-04-30
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Soya beans,,2024-04-30
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Soya beans,1100.13,2024-04-30
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Soya beans,1700.0,2024-04-30
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Soya beans,1200.0,2024-04-30
+Blantyre,Neno,Neno,Neno,April,2024,Soya beans,1200.0,2024-04-30
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Soya beans,,2024-04-30
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Soya beans,,2024-04-30
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Soya beans,1352.6,2024-04-30
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Soya beans,1500.0,2024-04-30
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Soya beans,,2024-04-30
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Soya beans,1600.0,2024-04-30
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Soya beans,,2024-04-30
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Soya beans,,2024-04-30
+Karonga,Misuku,Chitipa,Misuku,May,2024,Soya beans,,2024-05-31
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Soya beans,,2024-05-31
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Soya beans,,2024-05-31
+Karonga,Mpata,Karonga,Karonga,May,2024,Soya beans,1278.34,2024-05-31
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Soya beans,839.0,2024-05-31
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Soya beans,,2024-05-31
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Soya beans,,2024-05-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,May,2024,Soya beans,,2024-05-31
+Mzuzu,Kazomba,Mzimba,Mzimba,May,2024,Soya beans,172.45,2024-05-31
+Mzuzu,Mbawa,Mzimba,Embangweni,May,2024,Soya beans,1033.3,2024-05-31
+Mzuzu,Champhira,Mzimba,Jenda,May,2024,Soya beans,966.7,2024-05-31
+Mzuzu,Mpamba,Nkhata,Mpamba,May,2024,Soya beans,,2024-05-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,May,2024,Soya beans,,2024-05-31
+Mzuzu,Chintheche,Nkhata,Chintheche,May,2024,Soya beans,,2024-05-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Soya beans,1200.0,2024-05-31
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Soya beans,1000.0,2024-05-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Soya beans,,2024-05-31
+Salima,Tembwe,Salima,Salima,May,2024,Soya beans,,2024-05-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Soya beans,1370.0,2024-05-31
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Soya beans,1100.0,2024-05-31
+Kasungu,Nachisaka,Dowa,Dowa,May,2024,Soya beans,1100.0,2024-05-31
+Kasungu,Mponela,Dowa,Mponela,May,2024,Soya beans,,2024-05-31
+Kasungu,Madisi,Dowa,Madisi,May,2024,Soya beans,,2024-05-31
+Kasungu,Bowe,Dowa,Bowe,May,2024,Soya beans,,2024-05-31
+Kasungu,Nambuma,Dowa,Nambuma,May,2024,Soya beans,,2024-05-31
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Soya beans,,2024-05-31
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Soya beans,1075.0,2024-05-31
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Soya beans,1010.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Soya beans,1100.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Soya beans,1190.65,2024-05-31
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Soya beans,1505.6,2024-05-31
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Soya beans,,2024-05-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,May,2024,Soya beans,,2024-05-31
+Lilongwe,Demera,Lilongwe,Kasiya,May,2024,Soya beans,950.0,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,May,2024,Soya beans,1400.0,2024-05-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,May,2024,Soya beans,900.0,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,May,2024,Soya beans,1800.0,2024-05-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,May,2024,Soya beans,850.0,2024-05-31
+Lilongwe,Lobi,Dedza,Thete,May,2024,Soya beans,1100.0,2024-05-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Soya beans,,2024-05-31
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Soya beans,1080.23,2024-05-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Soya beans,1000.0,2024-05-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Soya beans,1200.0,2024-05-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Soya beans,,2024-05-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Soya beans,,2024-05-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Soya beans,,2024-05-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Soya beans,,2024-05-31
+Machinga,Bazale,Balaka,Balaka,May,2024,Soya beans,1569.34,2024-05-31
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Soya beans,,2024-05-31
+Machinga,Mpiya,Machinga,Namwera,May,2024,Soya beans,,2024-05-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Soya beans,2037.81,2024-05-31
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Soya beans,1946.74,2024-05-31
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Soya beans,1894.5,2024-05-31
+Machinga,Mpokwa,Zomba,Jali,May,2024,Soya beans,1300.25,2024-05-31
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Soya beans,1642.25,2024-05-31
+Machinga,Thondwe,Zomba,Zomba,May,2024,Soya beans,1500.23,2024-05-31
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Soya beans,1350.26,2024-05-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Soya beans,1450.505,2024-05-31
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Soya beans,1388.39,2024-05-31
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Soya beans,,2024-05-31
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Soya beans,,2024-05-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Soya beans,1500.0,2024-05-31
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Soya beans,1320.5,2024-05-31
+Blantyre,Neno,Neno,Neno,May,2024,Soya beans,1400.0,2024-05-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Soya beans,,2024-05-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Soya beans,700.0,2024-05-31
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Soya beans,,2024-05-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Soya beans,1000.0,2024-05-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Soya beans,,2024-05-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Soya beans,,2024-05-31
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Soya beans,,2024-05-31
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Soya beans,,2024-05-31
+Karonga,Misuku,Chitipa,Misuku,January,2024,Beans,1465.254,2024-01-31
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Beans,,2024-01-31
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Beans,,2024-01-31
+Karonga,Mpata,Karonga,Karonga,January,2024,Beans,1890.57,2024-01-31
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Beans,,2024-01-31
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Beans,,2024-01-31
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Beans,,2024-01-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,January,2024,Beans,2483.2,2024-01-31
+Mzuzu,Kazomba,Mzimba,Mzimba,January,2024,Beans,,2024-01-31
+Mzuzu,Mbawa,Mzimba,Embangweni,January,2024,Beans,2073.1,2024-01-31
+Mzuzu,Champhira,Mzimba,Jenda,January,2024,Beans,2398.1,2024-01-31
+Mzuzu,Mpamba,Nkhata,Mpamba,January,2024,Beans,,2024-01-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,January,2024,Beans,1225.25,2024-01-31
+Mzuzu,Chintheche,Nkhata,Chintheche,January,2024,Beans,1962.57,2024-01-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Beans,2400.0,2024-01-31
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Beans,2500.0,2024-01-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Beans,,2024-01-31
+Salima,Tembwe,Salima,Salima,January,2024,Beans,3200.0,2024-01-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Beans,2262.5,2024-01-31
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Beans,2333.3,2024-01-31
+Kasungu,Nachisaka,Dowa,Dowa,January,2024,Beans,,2024-01-31
+Kasungu,Mponela,Dowa,Mponela,January,2024,Beans,,2024-01-31
+Kasungu,Madisi,Dowa,Madisi,January,2024,Beans,,2024-01-31
+Kasungu,Bowe,Dowa,Bowe,January,2024,Beans,,2024-01-31
+Kasungu,Nambuma,Dowa,Nambuma,January,2024,Beans,,2024-01-31
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Beans,,2024-01-31
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Beans,2300.0,2024-01-31
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Beans,3500.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Beans,1996.52,2024-01-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Beans,20042.23,2024-01-31
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Beans,2600.0,2024-01-31
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Beans,3272.6,2024-01-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,January,2024,Beans,,2024-01-31
+Lilongwe,Demera,Lilongwe,Kasiya,January,2024,Beans,,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,January,2024,Beans,,2024-01-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,January,2024,Beans,2552.0,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,January,2024,Beans,1800.0,2024-01-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,January,2024,Beans,,2024-01-31
+Lilongwe,Lobi,Dedza,Thete,January,2024,Beans,2200.0,2024-01-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Beans,3000.0,2024-01-31
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Beans,1987.78,2024-01-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Beans,1900.0,2024-01-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Beans,,2024-01-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Beans,,2024-01-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Beans,,2024-01-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Beans,,2024-01-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Beans,,2024-01-31
+Machinga,Bazale,Balaka,Balaka,January,2024,Beans,3412.96,2024-01-31
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Beans,,2024-01-31
+Machinga,Mpiya,Machinga,Namwera,January,2024,Beans,1535.32,2024-01-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Beans,3050.0,2024-01-31
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Beans,3100.0,2024-01-31
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Beans,2850.0,2024-01-31
+Machinga,Mpokwa,Zomba,Jali,January,2024,Beans,3000.77,2024-01-31
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Beans,3000.43,2024-01-31
+Machinga,Thondwe,Zomba,Zomba,January,2024,Beans,3000.43,2024-01-31
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Beans,2800.56,2024-01-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Beans,3160.65,2024-01-31
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Beans,3188.63,2024-01-31
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Beans,,2024-01-31
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Beans,2600.18,2024-01-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Beans,2625.0,2024-01-31
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Beans,2389.19,2024-01-31
+Blantyre,Neno,Neno,Neno,January,2024,Beans,2500.0,2024-01-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Beans,,2024-01-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Beans,2300.0,2024-01-31
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Beans,,2024-01-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Beans,2000.0,2024-01-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Beans,2100.0,2024-01-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Beans,2000.0,2024-01-31
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Beans,2400.0,2024-01-31
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Beans,3000.08,2024-01-31
+Karonga,Misuku,Chitipa,Misuku,February,2024,Beans,,2024-02-29
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Beans,,2024-02-29
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Beans,,2024-02-29
+Karonga,Mpata,Karonga,Karonga,February,2024,Beans,,2024-02-29
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Beans,,2024-02-29
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Beans,,2024-02-29
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Beans,,2024-02-29
+Mzuzu,Emsizini,Mzimba,Mzuzu,February,2024,Beans,2707.6,2024-02-29
+Mzuzu,Kazomba,Mzimba,Mzimba,February,2024,Beans,2000.0,2024-02-29
+Mzuzu,Mbawa,Mzimba,Embangweni,February,2024,Beans,2999.2,2024-02-29
+Mzuzu,Champhira,Mzimba,Jenda,February,2024,Beans,2602.2,2024-02-29
+Mzuzu,Mpamba,Nkhata,Mpamba,February,2024,Beans,,2024-02-29
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,February,2024,Beans,,2024-02-29
+Mzuzu,Chintheche,Nkhata,Chintheche,February,2024,Beans,1962.26,2024-02-29
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Beans,2400.0,2024-02-29
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Beans,,2024-02-29
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Beans,3112.5,2024-02-29
+Salima,Tembwe,Salima,Salima,February,2024,Beans,,2024-02-29
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Beans,2687.5,2024-02-29
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Beans,3200.0,2024-02-29
+Kasungu,Nachisaka,Dowa,Dowa,February,2024,Beans,,2024-02-29
+Kasungu,Mponela,Dowa,Mponela,February,2024,Beans,,2024-02-29
+Kasungu,Madisi,Dowa,Madisi,February,2024,Beans,,2024-02-29
+Kasungu,Bowe,Dowa,Bowe,February,2024,Beans,,2024-02-29
+Kasungu,Nambuma,Dowa,Nambuma,February,2024,Beans,,2024-02-29
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Beans,2000.0,2024-02-29
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Beans,2300.0,2024-02-29
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Beans,3533.0,2024-02-29
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Beans,1982.22,2024-02-29
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Beans,2095.66,2024-02-29
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Beans,3383.3,2024-02-29
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Beans,4000.0,2024-02-29
+Lilongwe,Chilaza,Lilongwe,Msundwe,February,2024,Beans,,2024-02-29
+Lilongwe,Demera,Lilongwe,Kasiya,February,2024,Beans,,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Lilongwe,February,2024,Beans,,2024-02-29
+Lilongwe,Mitundu,Lilongwe,Mitundu,February,2024,Beans,2900.0,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Nanjiri,February,2024,Beans,1600.0,2024-02-29
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,February,2024,Beans,,2024-02-29
+Lilongwe,Lobi,Dedza,Thete,February,2024,Beans,,2024-02-29
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Beans,,2024-02-29
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Beans,1687.63,2024-02-29
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Beans,1975.0,2024-02-29
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Beans,,2024-02-29
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Beans,,2024-02-29
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Beans,,2024-02-29
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Beans,,2024-02-29
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Beans,,2024-02-29
+Machinga,Bazale,Balaka,Balaka,February,2024,Beans,3407.71,2024-02-29
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Beans,,2024-02-29
+Machinga,Mpiya,Machinga,Namwera,February,2024,Beans,2329.475,2024-02-29
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Beans,3000.0,2024-02-29
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Beans,3133.25,2024-02-29
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Beans,3000.0,2024-02-29
+Machinga,Mpokwa,Zomba,Jali,February,2024,Beans,,2024-02-29
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Beans,,2024-02-29
+Machinga,Thondwe,Zomba,Zomba,February,2024,Beans,,2024-02-29
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Beans,,2024-02-29
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Beans,3975.455,2024-02-29
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Beans,,2024-02-29
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Beans,,2024-02-29
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Beans,,2024-02-29
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Beans,,2024-02-29
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Beans,2389.19,2024-02-29
+Blantyre,Neno,Neno,Neno,February,2024,Beans,2500.0,2024-02-29
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Beans,,2024-02-29
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Beans,2500.0,2024-02-29
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Beans,,2024-02-29
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Beans,3500.0,2024-02-29
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Beans,3600.0,2024-02-29
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Beans,3500.0,2024-02-29
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Beans,2400.0,2024-02-29
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Beans,3000.22,2024-02-29
+Karonga,Misuku,Chitipa,Misuku,March,2024,Beans,2875.495,2024-03-31
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Beans,,2024-03-31
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Beans,,2024-03-31
+Karonga,Mpata,Karonga,Karonga,March,2024,Beans,1317.89,2024-03-31
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Beans,1962.86,2024-03-31
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Beans,2543.67,2024-03-31
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Beans,,2024-03-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,March,2024,Beans,,2024-03-31
+Mzuzu,Kazomba,Mzimba,Mzimba,March,2024,Beans,1709.41,2024-03-31
+Mzuzu,Mbawa,Mzimba,Embangweni,March,2024,Beans,2664.4,2024-03-31
+Mzuzu,Champhira,Mzimba,Jenda,March,2024,Beans,2569.1,2024-03-31
+Mzuzu,Mpamba,Nkhata,Mpamba,March,2024,Beans,,2024-03-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,March,2024,Beans,1231.36,2024-03-31
+Mzuzu,Chintheche,Nkhata,Chintheche,March,2024,Beans,1962.72,2024-03-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Beans,3000.0,2024-03-31
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Beans,,2024-03-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Beans,,2024-03-31
+Salima,Tembwe,Salima,Salima,March,2024,Beans,,2024-03-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Beans,2596.7,2024-03-31
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Beans,3200.0,2024-03-31
+Kasungu,Nachisaka,Dowa,Dowa,March,2024,Beans,2950.0,2024-03-31
+Kasungu,Mponela,Dowa,Mponela,March,2024,Beans,1500.0,2024-03-31
+Kasungu,Madisi,Dowa,Madisi,March,2024,Beans,,2024-03-31
+Kasungu,Bowe,Dowa,Bowe,March,2024,Beans,,2024-03-31
+Kasungu,Nambuma,Dowa,Nambuma,March,2024,Beans,2925.0,2024-03-31
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Beans,2000.0,2024-03-31
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Beans,2800.0,2024-03-31
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Beans,3533.33,2024-03-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Beans,1996.52,2024-03-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Beans,2095.66,2024-03-31
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Beans,3608.3,2024-03-31
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Beans,2500.0,2024-03-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,March,2024,Beans,,2024-03-31
+Lilongwe,Demera,Lilongwe,Kasiya,March,2024,Beans,,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,March,2024,Beans,3450.0,2024-03-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,March,2024,Beans,,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,March,2024,Beans,1650.0,2024-03-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,March,2024,Beans,,2024-03-31
+Lilongwe,Lobi,Dedza,Thete,March,2024,Beans,2125.0,2024-03-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Beans,,2024-03-31
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Beans,2500.12,2024-03-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Beans,1975.0,2024-03-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Beans,,2024-03-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Beans,,2024-03-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Beans,,2024-03-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Beans,1962.51,2024-03-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Beans,,2024-03-31
+Machinga,Bazale,Balaka,Balaka,March,2024,Beans,3548.04,2024-03-31
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Beans,,2024-03-31
+Machinga,Mpiya,Machinga,Namwera,March,2024,Beans,,2024-03-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Beans,4662.25,2024-03-31
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Beans,4068.12,2024-03-31
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Beans,3651.15,2024-03-31
+Machinga,Mpokwa,Zomba,Jali,March,2024,Beans,,2024-03-31
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Beans,,2024-03-31
+Machinga,Thondwe,Zomba,Zomba,March,2024,Beans,,2024-03-31
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Beans,,2024-03-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Beans,3850.4175,2024-03-31
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Beans,,2024-03-31
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Beans,2557.475,2024-03-31
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Beans,2566.69,2024-03-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Beans,2625.0,2024-03-31
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Beans,3200.0,2024-03-31
+Blantyre,Neno,Neno,Neno,March,2024,Beans,2350.0,2024-03-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Beans,,2024-03-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Beans,2450.0,2024-03-31
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Beans,2952.26,2024-03-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Beans,3500.0,2024-03-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Beans,3600.0,2024-03-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Beans,3500.0,2024-03-31
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Beans,3400.0,2024-03-31
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Beans,3000.07,2024-03-31
+Karonga,Misuku,Chitipa,Misuku,April,2024,Beans,2870.995,2024-04-30
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Beans,,2024-04-30
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Beans,,2024-04-30
+Karonga,Mpata,Karonga,Karonga,April,2024,Beans,,2024-04-30
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Beans,1375.95,2024-04-30
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Beans,,2024-04-30
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Beans,,2024-04-30
+Mzuzu,Emsizini,Mzimba,Mzuzu,April,2024,Beans,,2024-04-30
+Mzuzu,Kazomba,Mzimba,Mzimba,April,2024,Beans,2267.29,2024-04-30
+Mzuzu,Mbawa,Mzimba,Embangweni,April,2024,Beans,2669.5,2024-04-30
+Mzuzu,Champhira,Mzimba,Jenda,April,2024,Beans,2400.5,2024-04-30
+Mzuzu,Mpamba,Nkhata,Mpamba,April,2024,Beans,,2024-04-30
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,April,2024,Beans,1335.51,2024-04-30
+Mzuzu,Chintheche,Nkhata,Chintheche,April,2024,Beans,1962.54,2024-04-30
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Beans,3600.0,2024-04-30
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Beans,,2024-04-30
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Beans,,2024-04-30
+Salima,Tembwe,Salima,Salima,April,2024,Beans,3500.0,2024-04-30
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Beans,2533.3,2024-04-30
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Beans,2316.7,2024-04-30
+Kasungu,Nachisaka,Dowa,Dowa,April,2024,Beans,3000.0,2024-04-30
+Kasungu,Mponela,Dowa,Mponela,April,2024,Beans,,2024-04-30
+Kasungu,Madisi,Dowa,Madisi,April,2024,Beans,,2024-04-30
+Kasungu,Bowe,Dowa,Bowe,April,2024,Beans,3000.0,2024-04-30
+Kasungu,Nambuma,Dowa,Nambuma,April,2024,Beans,,2024-04-30
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Beans,,2024-04-30
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Beans,,2024-04-30
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Beans,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Beans,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Beans,,2024-04-30
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Beans,3733.3,2024-04-30
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Beans,3972.2,2024-04-30
+Lilongwe,Chilaza,Lilongwe,Msundwe,April,2024,Beans,,2024-04-30
+Lilongwe,Demera,Lilongwe,Kasiya,April,2024,Beans,,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Lilongwe,April,2024,Beans,3800.0,2024-04-30
+Lilongwe,Mitundu,Lilongwe,Mitundu,April,2024,Beans,2650.0,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Nanjiri,April,2024,Beans,1800.0,2024-04-30
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,April,2024,Beans,1770.0,2024-04-30
+Lilongwe,Lobi,Dedza,Thete,April,2024,Beans,,2024-04-30
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Beans,,2024-04-30
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Beans,2325.36,2024-04-30
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Beans,,2024-04-30
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Beans,,2024-04-30
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Beans,,2024-04-30
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Beans,,2024-04-30
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Beans,,2024-04-30
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Beans,,2024-04-30
+Machinga,Bazale,Balaka,Balaka,April,2024,Beans,3529.25,2024-04-30
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Beans,,2024-04-30
+Machinga,Mpiya,Machinga,Namwera,April,2024,Beans,,2024-04-30
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Beans,,2024-04-30
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Beans,,2024-04-30
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Beans,,2024-04-30
+Machinga,Mpokwa,Zomba,Jali,April,2024,Beans,,2024-04-30
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Beans,,2024-04-30
+Machinga,Thondwe,Zomba,Zomba,April,2024,Beans,,2024-04-30
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Beans,,2024-04-30
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Beans,3575.47,2024-04-30
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Beans,2983.88,2024-04-30
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Beans,,2024-04-30
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Beans,3000.0,2024-04-30
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Beans,2630.0,2024-04-30
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Beans,3800.0,2024-04-30
+Blantyre,Neno,Neno,Neno,April,2024,Beans,2040.0,2024-04-30
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Beans,,2024-04-30
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Beans,,2024-04-30
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Beans,,2024-04-30
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Beans,3500.0,2024-04-30
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Beans,3600.0,2024-04-30
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Beans,3500.0,2024-04-30
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Beans,,2024-04-30
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Beans,,2024-04-30
+Karonga,Misuku,Chitipa,Misuku,May,2024,Beans,,2024-05-31
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Beans,,2024-05-31
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Beans,,2024-05-31
+Karonga,Mpata,Karonga,Karonga,May,2024,Beans,1985.23,2024-05-31
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Beans,2131.88,2024-05-31
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Beans,2145.78,2024-05-31
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Beans,,2024-05-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,May,2024,Beans,,2024-05-31
+Mzuzu,Kazomba,Mzimba,Mzimba,May,2024,Beans,2436.45,2024-05-31
+Mzuzu,Mbawa,Mzimba,Embangweni,May,2024,Beans,3108.4,2024-05-31
+Mzuzu,Champhira,Mzimba,Jenda,May,2024,Beans,2527.2,2024-05-31
+Mzuzu,Mpamba,Nkhata,Mpamba,May,2024,Beans,,2024-05-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,May,2024,Beans,1336.486,2024-05-31
+Mzuzu,Chintheche,Nkhata,Chintheche,May,2024,Beans,2372.84,2024-05-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Beans,3200.0,2024-05-31
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Beans,1700.0,2024-05-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Beans,1850.0,2024-05-31
+Salima,Tembwe,Salima,Salima,May,2024,Beans,,2024-05-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Beans,2483.3,2024-05-31
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Beans,1200.0,2024-05-31
+Kasungu,Nachisaka,Dowa,Dowa,May,2024,Beans,2724.0,2024-05-31
+Kasungu,Mponela,Dowa,Mponela,May,2024,Beans,,2024-05-31
+Kasungu,Madisi,Dowa,Madisi,May,2024,Beans,,2024-05-31
+Kasungu,Bowe,Dowa,Bowe,May,2024,Beans,,2024-05-31
+Kasungu,Nambuma,Dowa,Nambuma,May,2024,Beans,2980.0,2024-05-31
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Beans,2200.0,2024-05-31
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Beans,3200.0,2024-05-31
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Beans,2733.33,2024-05-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Beans,1900.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Beans,3068.02,2024-05-31
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Beans,3633.3,2024-05-31
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Beans,,2024-05-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,May,2024,Beans,4000.0,2024-05-31
+Lilongwe,Demera,Lilongwe,Kasiya,May,2024,Beans,,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,May,2024,Beans,3800.0,2024-05-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,May,2024,Beans,3060.0,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,May,2024,Beans,2800.0,2024-05-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,May,2024,Beans,1700.0,2024-05-31
+Lilongwe,Lobi,Dedza,Thete,May,2024,Beans,,2024-05-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Beans,,2024-05-31
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Beans,2288.098,2024-05-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Beans,2650.0,2024-05-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Beans,3000.0,2024-05-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Beans,,2024-05-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Beans,,2024-05-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Beans,,2024-05-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Beans,,2024-05-31
+Machinga,Bazale,Balaka,Balaka,May,2024,Beans,3321.366,2024-05-31
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Beans,,2024-05-31
+Machinga,Mpiya,Machinga,Namwera,May,2024,Beans,3136.672,2024-05-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Beans,4445.182,2024-05-31
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Beans,3521.708,2024-05-31
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Beans,,2024-05-31
+Machinga,Mpokwa,Zomba,Jali,May,2024,Beans,3855.32,2024-05-31
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Beans,3600.45,2024-05-31
+Machinga,Thondwe,Zomba,Zomba,May,2024,Beans,3800.73,2024-05-31
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Beans,3600.56,2024-05-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Beans,2437.9025,2024-05-31
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Beans,3496.5,2024-05-31
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Beans,,2024-05-31
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Beans,,2024-05-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Beans,2800.0,2024-05-31
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Beans,3750.0,2024-05-31
+Blantyre,Neno,Neno,Neno,May,2024,Beans,2200.0,2024-05-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Beans,,2024-05-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Beans,2650.0,2024-05-31
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Beans,,2024-05-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Beans,1200.0,2024-05-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Beans,1300.0,2024-05-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Beans,1200.0,2024-05-31
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Beans,,2024-05-31
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Beans,2600.195,2024-05-31
+Karonga,Misuku,Chitipa,Misuku,January,2024,Cow peas,,2024-01-31
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Cow peas,,2024-01-31
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Cow peas,,2024-01-31
+Karonga,Mpata,Karonga,Karonga,January,2024,Cow peas,1280.67,2024-01-31
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Cow peas,,2024-01-31
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Cow peas,,2024-01-31
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Cow peas,,2024-01-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,January,2024,Cow peas,,2024-01-31
+Mzuzu,Kazomba,Mzimba,Mzimba,January,2024,Cow peas,,2024-01-31
+Mzuzu,Mbawa,Mzimba,Embangweni,January,2024,Cow peas,,2024-01-31
+Mzuzu,Champhira,Mzimba,Jenda,January,2024,Cow peas,,2024-01-31
+Mzuzu,Mpamba,Nkhata,Mpamba,January,2024,Cow peas,,2024-01-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,January,2024,Cow peas,,2024-01-31
+Mzuzu,Chintheche,Nkhata,Chintheche,January,2024,Cow peas,,2024-01-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Cow peas,1200.0,2024-01-31
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Cow peas,1000.0,2024-01-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Cow peas,,2024-01-31
+Salima,Tembwe,Salima,Salima,January,2024,Cow peas,,2024-01-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Cow peas,,2024-01-31
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Cow peas,,2024-01-31
+Kasungu,Nachisaka,Dowa,Dowa,January,2024,Cow peas,,2024-01-31
+Kasungu,Mponela,Dowa,Mponela,January,2024,Cow peas,,2024-01-31
+Kasungu,Madisi,Dowa,Madisi,January,2024,Cow peas,,2024-01-31
+Kasungu,Bowe,Dowa,Bowe,January,2024,Cow peas,,2024-01-31
+Kasungu,Nambuma,Dowa,Nambuma,January,2024,Cow peas,,2024-01-31
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Cow peas,,2024-01-31
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Cow peas,,2024-01-31
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Cow peas,,2024-01-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Cow peas,,2024-01-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Cow peas,,2024-01-31
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Cow peas,,2024-01-31
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Cow peas,,2024-01-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,January,2024,Cow peas,,2024-01-31
+Lilongwe,Demera,Lilongwe,Kasiya,January,2024,Cow peas,,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,January,2024,Cow peas,,2024-01-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,January,2024,Cow peas,1400.0,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,January,2024,Cow peas,,2024-01-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,January,2024,Cow peas,,2024-01-31
+Lilongwe,Lobi,Dedza,Thete,January,2024,Cow peas,1500.0,2024-01-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Cow peas,1100.0,2024-01-31
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Cow peas,1150.17,2024-01-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Cow peas,780.0,2024-01-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Cow peas,,2024-01-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Cow peas,,2024-01-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Cow peas,,2024-01-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Cow peas,,2024-01-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Cow peas,,2024-01-31
+Machinga,Bazale,Balaka,Balaka,January,2024,Cow peas,1548.0,2024-01-31
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Cow peas,,2024-01-31
+Machinga,Mpiya,Machinga,Namwera,January,2024,Cow peas,,2024-01-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Cow peas,5800.0,2024-01-31
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Cow peas,1912.5,2024-01-31
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Cow peas,1600.0,2024-01-31
+Machinga,Mpokwa,Zomba,Jali,January,2024,Cow peas,1180.8,2024-01-31
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Cow peas,1500.45,2024-01-31
+Machinga,Thondwe,Zomba,Zomba,January,2024,Cow peas,1450.8,2024-01-31
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Cow peas,1200.98,2024-01-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Cow peas,1512.77,2024-01-31
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Cow peas,1498.5,2024-01-31
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Cow peas,803.46,2024-01-31
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Cow peas,1400.0,2024-01-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Cow peas,900.0,2024-01-31
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Cow peas,1061.76,2024-01-31
+Blantyre,Neno,Neno,Neno,January,2024,Cow peas,1200.0,2024-01-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Cow peas,,2024-01-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Cow peas,,2024-01-31
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Cow peas,,2024-01-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Cow peas,874.28,2024-01-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Cow peas,891.03,2024-01-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Cow peas,957.3875,2024-01-31
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Cow peas,1200.0,2024-01-31
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Cow peas,600.36,2024-01-31
+Karonga,Misuku,Chitipa,Misuku,February,2024,Cow peas,,2024-02-29
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Cow peas,,2024-02-29
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Cow peas,,2024-02-29
+Karonga,Mpata,Karonga,Karonga,February,2024,Cow peas,,2024-02-29
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Cow peas,,2024-02-29
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Cow peas,,2024-02-29
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Cow peas,,2024-02-29
+Mzuzu,Emsizini,Mzimba,Mzuzu,February,2024,Cow peas,,2024-02-29
+Mzuzu,Kazomba,Mzimba,Mzimba,February,2024,Cow peas,,2024-02-29
+Mzuzu,Mbawa,Mzimba,Embangweni,February,2024,Cow peas,,2024-02-29
+Mzuzu,Champhira,Mzimba,Jenda,February,2024,Cow peas,,2024-02-29
+Mzuzu,Mpamba,Nkhata,Mpamba,February,2024,Cow peas,,2024-02-29
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,February,2024,Cow peas,,2024-02-29
+Mzuzu,Chintheche,Nkhata,Chintheche,February,2024,Cow peas,,2024-02-29
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Cow peas,1200.0,2024-02-29
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Cow peas,,2024-02-29
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Cow peas,5850.0,2024-02-29
+Salima,Tembwe,Salima,Salima,February,2024,Cow peas,,2024-02-29
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Cow peas,,2024-02-29
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Cow peas,,2024-02-29
+Kasungu,Nachisaka,Dowa,Dowa,February,2024,Cow peas,,2024-02-29
+Kasungu,Mponela,Dowa,Mponela,February,2024,Cow peas,,2024-02-29
+Kasungu,Madisi,Dowa,Madisi,February,2024,Cow peas,,2024-02-29
+Kasungu,Bowe,Dowa,Bowe,February,2024,Cow peas,,2024-02-29
+Kasungu,Nambuma,Dowa,Nambuma,February,2024,Cow peas,,2024-02-29
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Cow peas,,2024-02-29
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Cow peas,,2024-02-29
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Cow peas,,2024-02-29
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Cow peas,,2024-02-29
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Cow peas,,2024-02-29
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Cow peas,,2024-02-29
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Cow peas,,2024-02-29
+Lilongwe,Chilaza,Lilongwe,Msundwe,February,2024,Cow peas,,2024-02-29
+Lilongwe,Demera,Lilongwe,Kasiya,February,2024,Cow peas,,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Lilongwe,February,2024,Cow peas,,2024-02-29
+Lilongwe,Mitundu,Lilongwe,Mitundu,February,2024,Cow peas,1475.0,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Nanjiri,February,2024,Cow peas,,2024-02-29
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,February,2024,Cow peas,,2024-02-29
+Lilongwe,Lobi,Dedza,Thete,February,2024,Cow peas,,2024-02-29
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Cow peas,,2024-02-29
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Cow peas,1200.3,2024-02-29
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Cow peas,780.0,2024-02-29
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Cow peas,,2024-02-29
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Cow peas,,2024-02-29
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Cow peas,,2024-02-29
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Cow peas,,2024-02-29
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Cow peas,,2024-02-29
+Machinga,Bazale,Balaka,Balaka,February,2024,Cow peas,1434.32,2024-02-29
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Cow peas,,2024-02-29
+Machinga,Mpiya,Machinga,Namwera,February,2024,Cow peas,,2024-02-29
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Cow peas,1387.75,2024-02-29
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Cow peas,1539.5,2024-02-29
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Cow peas,1762.5,2024-02-29
+Machinga,Mpokwa,Zomba,Jali,February,2024,Cow peas,,2024-02-29
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Cow peas,,2024-02-29
+Machinga,Thondwe,Zomba,Zomba,February,2024,Cow peas,,2024-02-29
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Cow peas,,2024-02-29
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Cow peas,,2024-02-29
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Cow peas,,2024-02-29
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Cow peas,,2024-02-29
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Cow peas,,2024-02-29
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Cow peas,,2024-02-29
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Cow peas,1061.76,2024-02-29
+Blantyre,Neno,Neno,Neno,February,2024,Cow peas,1200.0,2024-02-29
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Cow peas,,2024-02-29
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Cow peas,,2024-02-29
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Cow peas,,2024-02-29
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Cow peas,1497.73,2024-02-29
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Cow peas,1514.48,2024-02-29
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Cow peas,1580.8375,2024-02-29
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Cow peas,1200.0,2024-02-29
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Cow peas,1200.5,2024-02-29
+Karonga,Misuku,Chitipa,Misuku,March,2024,Cow peas,,2024-03-31
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Cow peas,,2024-03-31
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Cow peas,,2024-03-31
+Karonga,Mpata,Karonga,Karonga,March,2024,Cow peas,798.61,2024-03-31
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Cow peas,,2024-03-31
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Cow peas,,2024-03-31
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Cow peas,,2024-03-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,March,2024,Cow peas,,2024-03-31
+Mzuzu,Kazomba,Mzimba,Mzimba,March,2024,Cow peas,,2024-03-31
+Mzuzu,Mbawa,Mzimba,Embangweni,March,2024,Cow peas,,2024-03-31
+Mzuzu,Champhira,Mzimba,Jenda,March,2024,Cow peas,,2024-03-31
+Mzuzu,Mpamba,Nkhata,Mpamba,March,2024,Cow peas,,2024-03-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,March,2024,Cow peas,,2024-03-31
+Mzuzu,Chintheche,Nkhata,Chintheche,March,2024,Cow peas,,2024-03-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Cow peas,1500.0,2024-03-31
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Cow peas,,2024-03-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Cow peas,,2024-03-31
+Salima,Tembwe,Salima,Salima,March,2024,Cow peas,,2024-03-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Cow peas,,2024-03-31
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Cow peas,,2024-03-31
+Kasungu,Nachisaka,Dowa,Dowa,March,2024,Cow peas,1500.0,2024-03-31
+Kasungu,Mponela,Dowa,Mponela,March,2024,Cow peas,,2024-03-31
+Kasungu,Madisi,Dowa,Madisi,March,2024,Cow peas,,2024-03-31
+Kasungu,Bowe,Dowa,Bowe,March,2024,Cow peas,,2024-03-31
+Kasungu,Nambuma,Dowa,Nambuma,March,2024,Cow peas,1400.0,2024-03-31
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Cow peas,,2024-03-31
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Cow peas,,2024-03-31
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Cow peas,,2024-03-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Cow peas,400.0,2024-03-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Cow peas,,2024-03-31
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Cow peas,,2024-03-31
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Cow peas,2400.0,2024-03-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,March,2024,Cow peas,,2024-03-31
+Lilongwe,Demera,Lilongwe,Kasiya,March,2024,Cow peas,,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,March,2024,Cow peas,1750.0,2024-03-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,March,2024,Cow peas,1450.0,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,March,2024,Cow peas,,2024-03-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,March,2024,Cow peas,,2024-03-31
+Lilongwe,Lobi,Dedza,Thete,March,2024,Cow peas,1500.0,2024-03-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Cow peas,,2024-03-31
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Cow peas,1200.31,2024-03-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Cow peas,780.0,2024-03-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Cow peas,,2024-03-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Cow peas,,2024-03-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Cow peas,,2024-03-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Cow peas,,2024-03-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Cow peas,,2024-03-31
+Machinga,Bazale,Balaka,Balaka,March,2024,Cow peas,1461.78,2024-03-31
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Cow peas,,2024-03-31
+Machinga,Mpiya,Machinga,Namwera,March,2024,Cow peas,,2024-03-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Cow peas,2153.35,2024-03-31
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Cow peas,2409.87,2024-03-31
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Cow peas,1833.33,2024-03-31
+Machinga,Mpokwa,Zomba,Jali,March,2024,Cow peas,,2024-03-31
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Cow peas,,2024-03-31
+Machinga,Thondwe,Zomba,Zomba,March,2024,Cow peas,,2024-03-31
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Cow peas,,2024-03-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Cow peas,1500.36,2024-03-31
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Cow peas,,2024-03-31
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Cow peas,830.46,2024-03-31
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Cow peas,1225.44,2024-03-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Cow peas,900.0,2024-03-31
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Cow peas,1000.0,2024-03-31
+Blantyre,Neno,Neno,Neno,March,2024,Cow peas,1200.0,2024-03-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Cow peas,,2024-03-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Cow peas,,2024-03-31
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Cow peas,1849.33,2024-03-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Cow peas,1507.98,2024-03-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Cow peas,1524.73,2024-03-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Cow peas,1591.0875,2024-03-31
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Cow peas,1200.0,2024-03-31
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Cow peas,1200.29,2024-03-31
+Karonga,Misuku,Chitipa,Misuku,April,2024,Cow peas,,2024-04-30
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Cow peas,,2024-04-30
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Cow peas,,2024-04-30
+Karonga,Mpata,Karonga,Karonga,April,2024,Cow peas,,2024-04-30
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Cow peas,,2024-04-30
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Cow peas,,2024-04-30
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Cow peas,,2024-04-30
+Mzuzu,Emsizini,Mzimba,Mzuzu,April,2024,Cow peas,,2024-04-30
+Mzuzu,Kazomba,Mzimba,Mzimba,April,2024,Cow peas,,2024-04-30
+Mzuzu,Mbawa,Mzimba,Embangweni,April,2024,Cow peas,,2024-04-30
+Mzuzu,Champhira,Mzimba,Jenda,April,2024,Cow peas,,2024-04-30
+Mzuzu,Mpamba,Nkhata,Mpamba,April,2024,Cow peas,,2024-04-30
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,April,2024,Cow peas,,2024-04-30
+Mzuzu,Chintheche,Nkhata,Chintheche,April,2024,Cow peas,,2024-04-30
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Cow peas,1500.0,2024-04-30
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Cow peas,,2024-04-30
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Cow peas,,2024-04-30
+Salima,Tembwe,Salima,Salima,April,2024,Cow peas,,2024-04-30
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Cow peas,,2024-04-30
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Cow peas,,2024-04-30
+Kasungu,Nachisaka,Dowa,Dowa,April,2024,Cow peas,,2024-04-30
+Kasungu,Mponela,Dowa,Mponela,April,2024,Cow peas,,2024-04-30
+Kasungu,Madisi,Dowa,Madisi,April,2024,Cow peas,,2024-04-30
+Kasungu,Bowe,Dowa,Bowe,April,2024,Cow peas,,2024-04-30
+Kasungu,Nambuma,Dowa,Nambuma,April,2024,Cow peas,,2024-04-30
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Cow peas,,2024-04-30
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Cow peas,,2024-04-30
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Cow peas,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Cow peas,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Cow peas,,2024-04-30
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Cow peas,,2024-04-30
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Cow peas,,2024-04-30
+Lilongwe,Chilaza,Lilongwe,Msundwe,April,2024,Cow peas,,2024-04-30
+Lilongwe,Demera,Lilongwe,Kasiya,April,2024,Cow peas,,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Lilongwe,April,2024,Cow peas,1800.0,2024-04-30
+Lilongwe,Mitundu,Lilongwe,Mitundu,April,2024,Cow peas,1450.0,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Nanjiri,April,2024,Cow peas,,2024-04-30
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,April,2024,Cow peas,1480.0,2024-04-30
+Lilongwe,Lobi,Dedza,Thete,April,2024,Cow peas,,2024-04-30
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Cow peas,,2024-04-30
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Cow peas,1200.39,2024-04-30
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Cow peas,,2024-04-30
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Cow peas,,2024-04-30
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Cow peas,,2024-04-30
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Cow peas,,2024-04-30
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Cow peas,,2024-04-30
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Cow peas,,2024-04-30
+Machinga,Bazale,Balaka,Balaka,April,2024,Cow peas,1527.2325,2024-04-30
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Cow peas,,2024-04-30
+Machinga,Mpiya,Machinga,Namwera,April,2024,Cow peas,,2024-04-30
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Cow peas,,2024-04-30
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Cow peas,,2024-04-30
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Cow peas,,2024-04-30
+Machinga,Mpokwa,Zomba,Jali,April,2024,Cow peas,,2024-04-30
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Cow peas,,2024-04-30
+Machinga,Thondwe,Zomba,Zomba,April,2024,Cow peas,,2024-04-30
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Cow peas,,2024-04-30
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Cow peas,1525.22,2024-04-30
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Cow peas,1494.98,2024-04-30
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Cow peas,,2024-04-30
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Cow peas,1300.0,2024-04-30
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Cow peas,900.0,2024-04-30
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Cow peas,1000.0,2024-04-30
+Blantyre,Neno,Neno,Neno,April,2024,Cow peas,1000.0,2024-04-30
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Cow peas,,2024-04-30
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Cow peas,,2024-04-30
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Cow peas,1948.07,2024-04-30
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Cow peas,1257.76,2024-04-30
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Cow peas,1274.51,2024-04-30
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Cow peas,1340.8675,2024-04-30
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Cow peas,,2024-04-30
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Cow peas,,2024-04-30
+Karonga,Misuku,Chitipa,Misuku,May,2024,Cow peas,,2024-05-31
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Cow peas,,2024-05-31
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Cow peas,,2024-05-31
+Karonga,Mpata,Karonga,Karonga,May,2024,Cow peas,1348.12,2024-05-31
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Cow peas,,2024-05-31
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Cow peas,,2024-05-31
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Cow peas,,2024-05-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,May,2024,Cow peas,,2024-05-31
+Mzuzu,Kazomba,Mzimba,Mzimba,May,2024,Cow peas,,2024-05-31
+Mzuzu,Mbawa,Mzimba,Embangweni,May,2024,Cow peas,,2024-05-31
+Mzuzu,Champhira,Mzimba,Jenda,May,2024,Cow peas,,2024-05-31
+Mzuzu,Mpamba,Nkhata,Mpamba,May,2024,Cow peas,,2024-05-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,May,2024,Cow peas,,2024-05-31
+Mzuzu,Chintheche,Nkhata,Chintheche,May,2024,Cow peas,,2024-05-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Cow peas,2200.0,2024-05-31
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Cow peas,900.0,2024-05-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Cow peas,1600.0,2024-05-31
+Salima,Tembwe,Salima,Salima,May,2024,Cow peas,,2024-05-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Cow peas,,2024-05-31
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Cow peas,,2024-05-31
+Kasungu,Nachisaka,Dowa,Dowa,May,2024,Cow peas,1500.0,2024-05-31
+Kasungu,Mponela,Dowa,Mponela,May,2024,Cow peas,,2024-05-31
+Kasungu,Madisi,Dowa,Madisi,May,2024,Cow peas,,2024-05-31
+Kasungu,Bowe,Dowa,Bowe,May,2024,Cow peas,,2024-05-31
+Kasungu,Nambuma,Dowa,Nambuma,May,2024,Cow peas,1200.0,2024-05-31
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Cow peas,1000.0,2024-05-31
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Cow peas,,2024-05-31
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Cow peas,,2024-05-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Cow peas,500.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Cow peas,,2024-05-31
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Cow peas,,2024-05-31
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Cow peas,,2024-05-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,May,2024,Cow peas,2400.0,2024-05-31
+Lilongwe,Demera,Lilongwe,Kasiya,May,2024,Cow peas,,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,May,2024,Cow peas,2100.0,2024-05-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,May,2024,Cow peas,1520.0,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,May,2024,Cow peas,1500.0,2024-05-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,May,2024,Cow peas,1500.0,2024-05-31
+Lilongwe,Lobi,Dedza,Thete,May,2024,Cow peas,,2024-05-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Cow peas,,2024-05-31
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Cow peas,1328.224,2024-05-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Cow peas,937.8,2024-05-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Cow peas,1900.0,2024-05-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Cow peas,,2024-05-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Cow peas,,2024-05-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Cow peas,,2024-05-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Cow peas,,2024-05-31
+Machinga,Bazale,Balaka,Balaka,May,2024,Cow peas,1351.79,2024-05-31
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Cow peas,,2024-05-31
+Machinga,Mpiya,Machinga,Namwera,May,2024,Cow peas,2001.67,2024-05-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Cow peas,2173.266,2024-05-31
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Cow peas,2027.64,2024-05-31
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Cow peas,,2024-05-31
+Machinga,Mpokwa,Zomba,Jali,May,2024,Cow peas,1280.8,2024-05-31
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Cow peas,1500.45,2024-05-31
+Machinga,Thondwe,Zomba,Zomba,May,2024,Cow peas,1450.8,2024-05-31
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Cow peas,1200.98,2024-05-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Cow peas,1525.23,2024-05-31
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Cow peas,1580.26,2024-05-31
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Cow peas,,2024-05-31
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Cow peas,,2024-05-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Cow peas,1400.0,2024-05-31
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Cow peas,1000.0,2024-05-31
+Blantyre,Neno,Neno,Neno,May,2024,Cow peas,1000.0,2024-05-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Cow peas,,2024-05-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Cow peas,,2024-05-31
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Cow peas,,2024-05-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Cow peas,964.4346667,2024-05-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Cow peas,1014.16,2024-05-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Cow peas,980.468,2024-05-31
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Cow peas,,2024-05-31
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Cow peas,1200.2625,2024-05-31
+Karonga,Misuku,Chitipa,Misuku,January,2024,Groundnuts,1637.49,2024-01-31
+Karonga,Kavukuku,Chitipa,Nthalire,January,2024,Groundnuts,,2024-01-31
+Karonga,Lufita,Chitipa,Chitipa,January,2024,Groundnuts,,2024-01-31
+Karonga,Mpata,Karonga,Karonga,January,2024,Groundnuts,1776.62,2024-01-31
+Karonga,Vinthukutu,Karonga,Chilumba,January,2024,Groundnuts,1953.21,2024-01-31
+Mzuzu,Bolero,Rumphi,Rumphi,January,2024,Groundnuts,,2024-01-31
+Mzuzu,Katowo,Rumphi,Hewe,January,2024,Groundnuts,,2024-01-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,January,2024,Groundnuts,2350.2,2024-01-31
+Mzuzu,Kazomba,Mzimba,Mzimba,January,2024,Groundnuts,,2024-01-31
+Mzuzu,Mbawa,Mzimba,Embangweni,January,2024,Groundnuts,,2024-01-31
+Mzuzu,Champhira,Mzimba,Jenda,January,2024,Groundnuts,2335.2,2024-01-31
+Mzuzu,Mpamba,Nkhata,Mpamba,January,2024,Groundnuts,,2024-01-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,January,2024,Groundnuts,1208.15,2024-01-31
+Mzuzu,Chintheche,Nkhata,Chintheche,January,2024,Groundnuts,1637.83,2024-01-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,January,2024,Groundnuts,2000.0,2024-01-31
+Salima,Linga,Nkhotakota,Nkhotakota,January,2024,Groundnuts,2420.0,2024-01-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,January,2024,Groundnuts,,2024-01-31
+Salima,Tembwe,Salima,Salima,January,2024,Groundnuts,3000.0,2024-01-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,January,2024,Groundnuts,2383.3,2024-01-31
+Kasungu,Malomo,Ntchisi,Malomo,January,2024,Groundnuts,2500.0,2024-01-31
+Kasungu,Nachisaka,Dowa,Dowa,January,2024,Groundnuts,,2024-01-31
+Kasungu,Mponela,Dowa,Mponela,January,2024,Groundnuts,,2024-01-31
+Kasungu,Madisi,Dowa,Madisi,January,2024,Groundnuts,,2024-01-31
+Kasungu,Bowe,Dowa,Bowe,January,2024,Groundnuts,,2024-01-31
+Kasungu,Nambuma,Dowa,Nambuma,January,2024,Groundnuts,,2024-01-31
+Kasungu,Santhe,Kasungu,Santhe,January,2024,Groundnuts,,2024-01-31
+Kasungu,Chipala,Kasungu,Kasungu,January,2024,Groundnuts,2000.0,2024-01-31
+Kasungu,Chamama,Kasungu,Chamama,January,2024,Groundnuts,3600.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,January,2024,Groundnuts,1500.0,2024-01-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,January,2024,Groundnuts,2891.34,2024-01-31
+Kasungu,Mkanda,Mchinji,Mkanda,January,2024,Groundnuts,,2024-01-31
+Kasungu,Zulu,Mchinji,Mchinji,January,2024,Groundnuts,,2024-01-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,January,2024,Groundnuts,,2024-01-31
+Lilongwe,Demera,Lilongwe,Kasiya,January,2024,Groundnuts,2333.3,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,January,2024,Groundnuts,,2024-01-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,January,2024,Groundnuts,2000.0,2024-01-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,January,2024,Groundnuts,1700.0,2024-01-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,January,2024,Groundnuts,,2024-01-31
+Lilongwe,Lobi,Dedza,Thete,January,2024,Groundnuts,2000.0,2024-01-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,January,2024,Groundnuts,1200.0,2024-01-31
+Lilongwe,Linthipe,Dedza,Chimbiya,January,2024,Groundnuts,2000.36,2024-01-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,January,2024,Groundnuts,1250.0,2024-01-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,January,2024,Groundnuts,,2024-01-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,January,2024,Groundnuts,,2024-01-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,January,2024,Groundnuts,,2024-01-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,January,2024,Groundnuts,,2024-01-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,January,2024,Groundnuts,,2024-01-31
+Machinga,Bazale,Balaka,Balaka,January,2024,Groundnuts,3370.52,2024-01-31
+Machinga,Chikweo,Machinga,Ntaja,January,2024,Groundnuts,,2024-01-31
+Machinga,Mpiya,Machinga,Namwera,January,2024,Groundnuts,1556.03,2024-01-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,January,2024,Groundnuts,3175.0,2024-01-31
+Machinga,Nasenga,Mangochi,Mangochi,January,2024,Groundnuts,3200.0,2024-01-31
+Machinga,Mtubwi,Machinga,Liwonde,January,2024,Groundnuts,2900.0,2024-01-31
+Machinga,Mpokwa,Zomba,Jali,January,2024,Groundnuts,2612.11,2024-01-31
+Machinga,Ngwelero,Zomba,Mayaka,January,2024,Groundnuts,2624.13,2024-01-31
+Machinga,Thondwe,Zomba,Zomba,January,2024,Groundnuts,2967.04,2024-01-31
+Machinga,Thondwe,Zomba,Thondwe,January,2024,Groundnuts,2633.64,2024-01-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,January,2024,Groundnuts,2875.45,2024-01-31
+Blantyre,Lunzu,Blantyre,Lunzu,January,2024,Groundnuts,2492.99,2024-01-31
+Blantyre,Mtonda,Blantyre,Limbe,January,2024,Groundnuts,2010.46,2024-01-31
+Blantyre,Dwale,Thyolo,Bvumbwe,January,2024,Groundnuts,2250.01,2024-01-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,January,2024,Groundnuts,2300.01,2024-01-31
+Blantyre,Mwanza,Mwanza,Mwanza,January,2024,Groundnuts,2200.0,2024-01-31
+Blantyre,Neno,Neno,Neno,January,2024,Groundnuts,2500.0,2024-01-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,January,2024,Groundnuts,,2024-01-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,January,2024,Groundnuts,2500.0,2024-01-31
+Blantyre,Milonde,Mulanje,Muloza,January,2024,Groundnuts,,2024-01-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,January,2024,Groundnuts,2250.0,2024-01-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,January,2024,Groundnuts,2200.0,2024-01-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,January,2024,Groundnuts,2150.0,2024-01-31
+Shirevalley,Magoti,Nsanje,Bangula,January,2024,Groundnuts,,2024-01-31
+Shirevalley,Zunde,Nsanje,Nsanje,January,2024,Groundnuts,2600.3,2024-01-31
+Karonga,Misuku,Chitipa,Misuku,February,2024,Groundnuts,,2024-02-29
+Karonga,Kavukuku,Chitipa,Nthalire,February,2024,Groundnuts,,2024-02-29
+Karonga,Lufita,Chitipa,Chitipa,February,2024,Groundnuts,,2024-02-29
+Karonga,Mpata,Karonga,Karonga,February,2024,Groundnuts,,2024-02-29
+Karonga,Vinthukutu,Karonga,Chilumba,February,2024,Groundnuts,,2024-02-29
+Mzuzu,Bolero,Rumphi,Rumphi,February,2024,Groundnuts,,2024-02-29
+Mzuzu,Katowo,Rumphi,Hewe,February,2024,Groundnuts,,2024-02-29
+Mzuzu,Emsizini,Mzimba,Mzuzu,February,2024,Groundnuts,2684.2,2024-02-29
+Mzuzu,Kazomba,Mzimba,Mzimba,February,2024,Groundnuts,2000.0,2024-02-29
+Mzuzu,Mbawa,Mzimba,Embangweni,February,2024,Groundnuts,,2024-02-29
+Mzuzu,Champhira,Mzimba,Jenda,February,2024,Groundnuts,2647.9,2024-02-29
+Mzuzu,Mpamba,Nkhata,Mpamba,February,2024,Groundnuts,,2024-02-29
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,February,2024,Groundnuts,,2024-02-29
+Mzuzu,Chintheche,Nkhata,Chintheche,February,2024,Groundnuts,1637.79,2024-02-29
+Salima,Nkhunga,Nkhotakota,Dwangwa,February,2024,Groundnuts,2000.0,2024-02-29
+Salima,Linga,Nkhotakota,Nkhotakota,February,2024,Groundnuts,,2024-02-29
+Salima,Mwansambo,Nkhotakota,Mwansambo,February,2024,Groundnuts,2000.0,2024-02-29
+Salima,Tembwe,Salima,Salima,February,2024,Groundnuts,3000.0,2024-02-29
+Kasungu,Chikwatula,Ntchisi,Ntchisi,February,2024,Groundnuts,2394.4,2024-02-29
+Kasungu,Malomo,Ntchisi,Malomo,February,2024,Groundnuts,2500.0,2024-02-29
+Kasungu,Nachisaka,Dowa,Dowa,February,2024,Groundnuts,,2024-02-29
+Kasungu,Mponela,Dowa,Mponela,February,2024,Groundnuts,,2024-02-29
+Kasungu,Madisi,Dowa,Madisi,February,2024,Groundnuts,,2024-02-29
+Kasungu,Bowe,Dowa,Bowe,February,2024,Groundnuts,,2024-02-29
+Kasungu,Nambuma,Dowa,Nambuma,February,2024,Groundnuts,,2024-02-29
+Kasungu,Santhe,Kasungu,Santhe,February,2024,Groundnuts,2200.0,2024-02-29
+Kasungu,Chipala,Kasungu,Kasungu,February,2024,Groundnuts,,2024-02-29
+Kasungu,Chamama,Kasungu,Chamama,February,2024,Groundnuts,3566.67,2024-02-29
+Kasungu,Kaluluma,Kasungu,Nkhamenya,February,2024,Groundnuts,1500.0,2024-02-29
+Kasungu,Kaluluma,Kasungu,Chatoloma,February,2024,Groundnuts,2848.21,2024-02-29
+Kasungu,Mkanda,Mchinji,Mkanda,February,2024,Groundnuts,,2024-02-29
+Kasungu,Zulu,Mchinji,Mchinji,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Chilaza,Lilongwe,Msundwe,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Demera,Lilongwe,Kasiya,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Lilongwe,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Mitundu,Lilongwe,Mitundu,February,2024,Groundnuts,2250.0,2024-02-29
+Lilongwe,Chitsime,Lilongwe,Nanjiri,February,2024,Groundnuts,1700.0,2024-02-29
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Lobi,Dedza,Thete,February,2024,Groundnuts,2000.0,2024-02-29
+Lilongwe,Mtakataka,Dedza,Mtakataka,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Linthipe,Dedza,Chimbiya,February,2024,Groundnuts,2000.41,2024-02-29
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,February,2024,Groundnuts,1250.0,2024-02-29
+Lilongwe,Njolomole,Ntcheu,Lizulu,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Nsipe,Ntcheu,Ntcheu,February,2024,Groundnuts,,2024-02-29
+Lilongwe,Manjawira,Ntcheu,Ntonda,February,2024,Groundnuts,,2024-02-29
+Machinga,Bazale,Balaka,Balaka,February,2024,Groundnuts,3534.17,2024-02-29
+Machinga,Chikweo,Machinga,Ntaja,February,2024,Groundnuts,,2024-02-29
+Machinga,Mpiya,Machinga,Namwera,February,2024,Groundnuts,1555.13,2024-02-29
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,February,2024,Groundnuts,3725.0,2024-02-29
+Machinga,Nasenga,Mangochi,Mangochi,February,2024,Groundnuts,3225.0,2024-02-29
+Machinga,Mtubwi,Machinga,Liwonde,February,2024,Groundnuts,2850.0,2024-02-29
+Machinga,Mpokwa,Zomba,Jali,February,2024,Groundnuts,,2024-02-29
+Machinga,Ngwelero,Zomba,Mayaka,February,2024,Groundnuts,,2024-02-29
+Machinga,Thondwe,Zomba,Zomba,February,2024,Groundnuts,,2024-02-29
+Machinga,Thondwe,Zomba,Thondwe,February,2024,Groundnuts,,2024-02-29
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,February,2024,Groundnuts,2500.525,2024-02-29
+Blantyre,Lunzu,Blantyre,Lunzu,February,2024,Groundnuts,,2024-02-29
+Blantyre,Mtonda,Blantyre,Limbe,February,2024,Groundnuts,,2024-02-29
+Blantyre,Dwale,Thyolo,Bvumbwe,February,2024,Groundnuts,,2024-02-29
+Blantyre,Nkhonjeni,Thyolo,Luncheza,February,2024,Groundnuts,,2024-02-29
+Blantyre,Mwanza,Mwanza,Mwanza,February,2024,Groundnuts,2200.0,2024-02-29
+Blantyre,Neno,Neno,Neno,February,2024,Groundnuts,2500.0,2024-02-29
+Blantyre,Nkhulambe,Phalombe,Chiringa,February,2024,Groundnuts,,2024-02-29
+Blantyre,Naminjiwa,Phalombe,Phalombe,February,2024,Groundnuts,2100.0,2024-02-29
+Blantyre,Milonde,Mulanje,Muloza,February,2024,Groundnuts,,2024-02-29
+Shirevalley,Mitole,Chikwawa,Chikhwawa,February,2024,Groundnuts,2550.0,2024-02-29
+Shirevalley,Mikalango,Chikwawa,Ngabu,February,2024,Groundnuts,2500.0,2024-02-29
+Shirevalley,Mbewe,Chikwawa,Nchalo,February,2024,Groundnuts,2450.0,2024-02-29
+Shirevalley,Magoti,Nsanje,Bangula,February,2024,Groundnuts,2000.0,2024-02-29
+Shirevalley,Zunde,Nsanje,Nsanje,February,2024,Groundnuts,2400.31,2024-02-29
+Karonga,Misuku,Chitipa,Misuku,March,2024,Groundnuts,1656.07,2024-03-31
+Karonga,Kavukuku,Chitipa,Nthalire,March,2024,Groundnuts,,2024-03-31
+Karonga,Lufita,Chitipa,Chitipa,March,2024,Groundnuts,,2024-03-31
+Karonga,Mpata,Karonga,Karonga,March,2024,Groundnuts,1050.69,2024-03-31
+Karonga,Vinthukutu,Karonga,Chilumba,March,2024,Groundnuts,1859.38,2024-03-31
+Mzuzu,Bolero,Rumphi,Rumphi,March,2024,Groundnuts,927.07,2024-03-31
+Mzuzu,Katowo,Rumphi,Hewe,March,2024,Groundnuts,,2024-03-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,March,2024,Groundnuts,,2024-03-31
+Mzuzu,Kazomba,Mzimba,Mzimba,March,2024,Groundnuts,2029.79,2024-03-31
+Mzuzu,Mbawa,Mzimba,Embangweni,March,2024,Groundnuts,,2024-03-31
+Mzuzu,Champhira,Mzimba,Jenda,March,2024,Groundnuts,2792.3,2024-03-31
+Mzuzu,Mpamba,Nkhata,Mpamba,March,2024,Groundnuts,,2024-03-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,March,2024,Groundnuts,1231.36,2024-03-31
+Mzuzu,Chintheche,Nkhata,Chintheche,March,2024,Groundnuts,1638.24,2024-03-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,March,2024,Groundnuts,,2024-03-31
+Salima,Linga,Nkhotakota,Nkhotakota,March,2024,Groundnuts,,2024-03-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,March,2024,Groundnuts,,2024-03-31
+Salima,Tembwe,Salima,Salima,March,2024,Groundnuts,3000.0,2024-03-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,March,2024,Groundnuts,2441.7,2024-03-31
+Kasungu,Malomo,Ntchisi,Malomo,March,2024,Groundnuts,2500.0,2024-03-31
+Kasungu,Nachisaka,Dowa,Dowa,March,2024,Groundnuts,2050.0,2024-03-31
+Kasungu,Mponela,Dowa,Mponela,March,2024,Groundnuts,1700.0,2024-03-31
+Kasungu,Madisi,Dowa,Madisi,March,2024,Groundnuts,,2024-03-31
+Kasungu,Bowe,Dowa,Bowe,March,2024,Groundnuts,,2024-03-31
+Kasungu,Nambuma,Dowa,Nambuma,March,2024,Groundnuts,,2024-03-31
+Kasungu,Santhe,Kasungu,Santhe,March,2024,Groundnuts,2200.0,2024-03-31
+Kasungu,Chipala,Kasungu,Kasungu,March,2024,Groundnuts,1800.0,2024-03-31
+Kasungu,Chamama,Kasungu,Chamama,March,2024,Groundnuts,3566.67,2024-03-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,March,2024,Groundnuts,1500.0,2024-03-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,March,2024,Groundnuts,2848.21,2024-03-31
+Kasungu,Mkanda,Mchinji,Mkanda,March,2024,Groundnuts,,2024-03-31
+Kasungu,Zulu,Mchinji,Mchinji,March,2024,Groundnuts,1400.0,2024-03-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,March,2024,Groundnuts,,2024-03-31
+Lilongwe,Demera,Lilongwe,Kasiya,March,2024,Groundnuts,2466.7,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,March,2024,Groundnuts,2500.0,2024-03-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,March,2024,Groundnuts,2200.0,2024-03-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,March,2024,Groundnuts,2000.0,2024-03-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,March,2024,Groundnuts,,2024-03-31
+Lilongwe,Lobi,Dedza,Thete,March,2024,Groundnuts,,2024-03-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,March,2024,Groundnuts,,2024-03-31
+Lilongwe,Linthipe,Dedza,Chimbiya,March,2024,Groundnuts,2000.43,2024-03-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,March,2024,Groundnuts,1250.0,2024-03-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,March,2024,Groundnuts,,2024-03-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,March,2024,Groundnuts,,2024-03-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,March,2024,Groundnuts,,2024-03-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,March,2024,Groundnuts,1638.24,2024-03-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,March,2024,Groundnuts,,2024-03-31
+Machinga,Bazale,Balaka,Balaka,March,2024,Groundnuts,3550.79,2024-03-31
+Machinga,Chikweo,Machinga,Ntaja,March,2024,Groundnuts,,2024-03-31
+Machinga,Mpiya,Machinga,Namwera,March,2024,Groundnuts,,2024-03-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,March,2024,Groundnuts,3881.52,2024-03-31
+Machinga,Nasenga,Mangochi,Mangochi,March,2024,Groundnuts,4014.1,2024-03-31
+Machinga,Mtubwi,Machinga,Liwonde,March,2024,Groundnuts,3490.19,2024-03-31
+Machinga,Mpokwa,Zomba,Jali,March,2024,Groundnuts,,2024-03-31
+Machinga,Ngwelero,Zomba,Mayaka,March,2024,Groundnuts,,2024-03-31
+Machinga,Thondwe,Zomba,Zomba,March,2024,Groundnuts,,2024-03-31
+Machinga,Thondwe,Zomba,Thondwe,March,2024,Groundnuts,,2024-03-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,March,2024,Groundnuts,2550.3175,2024-03-31
+Blantyre,Lunzu,Blantyre,Lunzu,March,2024,Groundnuts,,2024-03-31
+Blantyre,Mtonda,Blantyre,Limbe,March,2024,Groundnuts,2382.475,2024-03-31
+Blantyre,Dwale,Thyolo,Bvumbwe,March,2024,Groundnuts,2211.51,2024-03-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,March,2024,Groundnuts,2500.0,2024-03-31
+Blantyre,Mwanza,Mwanza,Mwanza,March,2024,Groundnuts,2600.0,2024-03-31
+Blantyre,Neno,Neno,Neno,March,2024,Groundnuts,2225.0,2024-03-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,March,2024,Groundnuts,,2024-03-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,March,2024,Groundnuts,2000.0,2024-03-31
+Blantyre,Milonde,Mulanje,Muloza,March,2024,Groundnuts,2251.98,2024-03-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,March,2024,Groundnuts,2550.0,2024-03-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,March,2024,Groundnuts,2500.0,2024-03-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,March,2024,Groundnuts,2450.0,2024-03-31
+Shirevalley,Magoti,Nsanje,Bangula,March,2024,Groundnuts,3000.0,2024-03-31
+Shirevalley,Zunde,Nsanje,Nsanje,March,2024,Groundnuts,2400.23,2024-03-31
+Karonga,Misuku,Chitipa,Misuku,April,2024,Groundnuts,1787.775,2024-04-30
+Karonga,Kavukuku,Chitipa,Nthalire,April,2024,Groundnuts,,2024-04-30
+Karonga,Lufita,Chitipa,Chitipa,April,2024,Groundnuts,,2024-04-30
+Karonga,Mpata,Karonga,Karonga,April,2024,Groundnuts,,2024-04-30
+Karonga,Vinthukutu,Karonga,Chilumba,April,2024,Groundnuts,1585.21,2024-04-30
+Mzuzu,Bolero,Rumphi,Rumphi,April,2024,Groundnuts,,2024-04-30
+Mzuzu,Katowo,Rumphi,Hewe,April,2024,Groundnuts,,2024-04-30
+Mzuzu,Emsizini,Mzimba,Mzuzu,April,2024,Groundnuts,,2024-04-30
+Mzuzu,Kazomba,Mzimba,Mzimba,April,2024,Groundnuts,2194.74,2024-04-30
+Mzuzu,Mbawa,Mzimba,Embangweni,April,2024,Groundnuts,,2024-04-30
+Mzuzu,Champhira,Mzimba,Jenda,April,2024,Groundnuts,2620.1,2024-04-30
+Mzuzu,Mpamba,Nkhata,Mpamba,April,2024,Groundnuts,,2024-04-30
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,April,2024,Groundnuts,1250.02,2024-04-30
+Mzuzu,Chintheche,Nkhata,Chintheche,April,2024,Groundnuts,1637.87,2024-04-30
+Salima,Nkhunga,Nkhotakota,Dwangwa,April,2024,Groundnuts,2600.0,2024-04-30
+Salima,Linga,Nkhotakota,Nkhotakota,April,2024,Groundnuts,,2024-04-30
+Salima,Mwansambo,Nkhotakota,Mwansambo,April,2024,Groundnuts,,2024-04-30
+Salima,Tembwe,Salima,Salima,April,2024,Groundnuts,3200.0,2024-04-30
+Kasungu,Chikwatula,Ntchisi,Ntchisi,April,2024,Groundnuts,2477.8,2024-04-30
+Kasungu,Malomo,Ntchisi,Malomo,April,2024,Groundnuts,2500.0,2024-04-30
+Kasungu,Nachisaka,Dowa,Dowa,April,2024,Groundnuts,2000.0,2024-04-30
+Kasungu,Mponela,Dowa,Mponela,April,2024,Groundnuts,,2024-04-30
+Kasungu,Madisi,Dowa,Madisi,April,2024,Groundnuts,,2024-04-30
+Kasungu,Bowe,Dowa,Bowe,April,2024,Groundnuts,2000.0,2024-04-30
+Kasungu,Nambuma,Dowa,Nambuma,April,2024,Groundnuts,,2024-04-30
+Kasungu,Santhe,Kasungu,Santhe,April,2024,Groundnuts,,2024-04-30
+Kasungu,Chipala,Kasungu,Kasungu,April,2024,Groundnuts,,2024-04-30
+Kasungu,Chamama,Kasungu,Chamama,April,2024,Groundnuts,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Nkhamenya,April,2024,Groundnuts,,2024-04-30
+Kasungu,Kaluluma,Kasungu,Chatoloma,April,2024,Groundnuts,,2024-04-30
+Kasungu,Mkanda,Mchinji,Mkanda,April,2024,Groundnuts,,2024-04-30
+Kasungu,Zulu,Mchinji,Mchinji,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Chilaza,Lilongwe,Msundwe,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Demera,Lilongwe,Kasiya,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Lilongwe,April,2024,Groundnuts,3000.0,2024-04-30
+Lilongwe,Mitundu,Lilongwe,Mitundu,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Chitsime,Lilongwe,Nanjiri,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,April,2024,Groundnuts,1790.0,2024-04-30
+Lilongwe,Lobi,Dedza,Thete,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Mtakataka,Dedza,Mtakataka,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Linthipe,Dedza,Chimbiya,April,2024,Groundnuts,2112.82,2024-04-30
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Njolomole,Ntcheu,Lizulu,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,April,2024,Groundnuts,2045.6,2024-04-30
+Lilongwe,Nsipe,Ntcheu,Ntcheu,April,2024,Groundnuts,,2024-04-30
+Lilongwe,Manjawira,Ntcheu,Ntonda,April,2024,Groundnuts,,2024-04-30
+Machinga,Bazale,Balaka,Balaka,April,2024,Groundnuts,3606.25,2024-04-30
+Machinga,Chikweo,Machinga,Ntaja,April,2024,Groundnuts,,2024-04-30
+Machinga,Mpiya,Machinga,Namwera,April,2024,Groundnuts,,2024-04-30
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,April,2024,Groundnuts,,2024-04-30
+Machinga,Nasenga,Mangochi,Mangochi,April,2024,Groundnuts,,2024-04-30
+Machinga,Mtubwi,Machinga,Liwonde,April,2024,Groundnuts,,2024-04-30
+Machinga,Mpokwa,Zomba,Jali,April,2024,Groundnuts,,2024-04-30
+Machinga,Ngwelero,Zomba,Mayaka,April,2024,Groundnuts,,2024-04-30
+Machinga,Thondwe,Zomba,Zomba,April,2024,Groundnuts,,2024-04-30
+Machinga,Thondwe,Zomba,Thondwe,April,2024,Groundnuts,,2024-04-30
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,April,2024,Groundnuts,2375.59,2024-04-30
+Blantyre,Lunzu,Blantyre,Lunzu,April,2024,Groundnuts,2465.47,2024-04-30
+Blantyre,Mtonda,Blantyre,Limbe,April,2024,Groundnuts,,2024-04-30
+Blantyre,Dwale,Thyolo,Bvumbwe,April,2024,Groundnuts,2350.0,2024-04-30
+Blantyre,Nkhonjeni,Thyolo,Luncheza,April,2024,Groundnuts,2500.0,2024-04-30
+Blantyre,Mwanza,Mwanza,Mwanza,April,2024,Groundnuts,2600.0,2024-04-30
+Blantyre,Neno,Neno,Neno,April,2024,Groundnuts,2200.0,2024-04-30
+Blantyre,Nkhulambe,Phalombe,Chiringa,April,2024,Groundnuts,,2024-04-30
+Blantyre,Naminjiwa,Phalombe,Phalombe,April,2024,Groundnuts,,2024-04-30
+Blantyre,Milonde,Mulanje,Muloza,April,2024,Groundnuts,2938.02,2024-04-30
+Shirevalley,Mitole,Chikwawa,Chikhwawa,April,2024,Groundnuts,2550.0,2024-04-30
+Shirevalley,Mikalango,Chikwawa,Ngabu,April,2024,Groundnuts,2500.0,2024-04-30
+Shirevalley,Mbewe,Chikwawa,Nchalo,April,2024,Groundnuts,2450.0,2024-04-30
+Shirevalley,Magoti,Nsanje,Bangula,April,2024,Groundnuts,,2024-04-30
+Shirevalley,Zunde,Nsanje,Nsanje,April,2024,Groundnuts,,2024-04-30
+Karonga,Misuku,Chitipa,Misuku,May,2024,Groundnuts,,2024-05-31
+Karonga,Kavukuku,Chitipa,Nthalire,May,2024,Groundnuts,,2024-05-31
+Karonga,Lufita,Chitipa,Chitipa,May,2024,Groundnuts,,2024-05-31
+Karonga,Mpata,Karonga,Karonga,May,2024,Groundnuts,1256.48,2024-05-31
+Karonga,Vinthukutu,Karonga,Chilumba,May,2024,Groundnuts,,2024-05-31
+Mzuzu,Bolero,Rumphi,Rumphi,May,2024,Groundnuts,,2024-05-31
+Mzuzu,Katowo,Rumphi,Hewe,May,2024,Groundnuts,,2024-05-31
+Mzuzu,Emsizini,Mzimba,Mzuzu,May,2024,Groundnuts,,2024-05-31
+Mzuzu,Kazomba,Mzimba,Mzimba,May,2024,Groundnuts,2750.95,2024-05-31
+Mzuzu,Mbawa,Mzimba,Embangweni,May,2024,Groundnuts,,2024-05-31
+Mzuzu,Champhira,Mzimba,Jenda,May,2024,Groundnuts,,2024-05-31
+Mzuzu,Mpamba,Nkhata,Mpamba,May,2024,Groundnuts,,2024-05-31
+Mzuzu,Nkhata Bay,Nkhata,Nkhata Bay,May,2024,Groundnuts,,2024-05-31
+Mzuzu,Chintheche,Nkhata,Chintheche,May,2024,Groundnuts,1637.79,2024-05-31
+Salima,Nkhunga,Nkhotakota,Dwangwa,May,2024,Groundnuts,2600.0,2024-05-31
+Salima,Linga,Nkhotakota,Nkhotakota,May,2024,Groundnuts,1000.0,2024-05-31
+Salima,Mwansambo,Nkhotakota,Mwansambo,May,2024,Groundnuts,,2024-05-31
+Salima,Tembwe,Salima,Salima,May,2024,Groundnuts,,2024-05-31
+Kasungu,Chikwatula,Ntchisi,Ntchisi,May,2024,Groundnuts,2540.0,2024-05-31
+Kasungu,Malomo,Ntchisi,Malomo,May,2024,Groundnuts,,2024-05-31
+Kasungu,Nachisaka,Dowa,Dowa,May,2024,Groundnuts,2025.0,2024-05-31
+Kasungu,Mponela,Dowa,Mponela,May,2024,Groundnuts,,2024-05-31
+Kasungu,Madisi,Dowa,Madisi,May,2024,Groundnuts,,2024-05-31
+Kasungu,Bowe,Dowa,Bowe,May,2024,Groundnuts,,2024-05-31
+Kasungu,Nambuma,Dowa,Nambuma,May,2024,Groundnuts,,2024-05-31
+Kasungu,Santhe,Kasungu,Santhe,May,2024,Groundnuts,2200.0,2024-05-31
+Kasungu,Chipala,Kasungu,Kasungu,May,2024,Groundnuts,2500.0,2024-05-31
+Kasungu,Chamama,Kasungu,Chamama,May,2024,Groundnuts,2000.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Nkhamenya,May,2024,Groundnuts,1700.0,2024-05-31
+Kasungu,Kaluluma,Kasungu,Chatoloma,May,2024,Groundnuts,2196.69,2024-05-31
+Kasungu,Mkanda,Mchinji,Mkanda,May,2024,Groundnuts,,2024-05-31
+Kasungu,Zulu,Mchinji,Mchinji,May,2024,Groundnuts,2000.0,2024-05-31
+Lilongwe,Chilaza,Lilongwe,Msundwe,May,2024,Groundnuts,,2024-05-31
+Lilongwe,Demera,Lilongwe,Kasiya,May,2024,Groundnuts,2400.0,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Lilongwe,May,2024,Groundnuts,3000.0,2024-05-31
+Lilongwe,Mitundu,Lilongwe,Mitundu,May,2024,Groundnuts,1750.0,2024-05-31
+Lilongwe,Chitsime,Lilongwe,Nanjiri,May,2024,Groundnuts,,2024-05-31
+Lilongwe,Chitekwere,Lilongwe,Nkhoma,May,2024,Groundnuts,1750.0,2024-05-31
+Lilongwe,Lobi,Dedza,Thete,May,2024,Groundnuts,,2024-05-31
+Lilongwe,Mtakataka,Dedza,Mtakataka,May,2024,Groundnuts,,2024-05-31
+Lilongwe,Linthipe,Dedza,Chimbiya,May,2024,Groundnuts,1268.546,2024-05-31
+Lilongwe,Bembeke,Dedza,Bembeke Turn off,May,2024,Groundnuts,1250.0,2024-05-31
+Lilongwe,Njolomole,Ntcheu,Lizulu,May,2024,Groundnuts,2600.0,2024-05-31
+Lilongwe,Sharpevale,Ntcheu,Sharpevaley,May,2024,Groundnuts,,2024-05-31
+Lilongwe,Tsangano,Ntcheu,Tsangano Turn off,May,2024,Groundnuts,,2024-05-31
+Lilongwe,Nsipe,Ntcheu,Ntcheu,May,2024,Groundnuts,,2024-05-31
+Lilongwe,Manjawira,Ntcheu,Ntonda,May,2024,Groundnuts,,2024-05-31
+Machinga,Bazale,Balaka,Balaka,May,2024,Groundnuts,,2024-05-31
+Machinga,Chikweo,Machinga,Ntaja,May,2024,Groundnuts,,2024-05-31
+Machinga,Mpiya,Machinga,Namwera,May,2024,Groundnuts,2190.53,2024-05-31
+Machinga,Mbwadzulu,Mangochi,Monkey Bay,May,2024,Groundnuts,2052.818,2024-05-31
+Machinga,Nasenga,Mangochi,Mangochi,May,2024,Groundnuts,2827.888,2024-05-31
+Machinga,Mtubwi,Machinga,Liwonde,May,2024,Groundnuts,,2024-05-31
+Machinga,Mpokwa,Zomba,Jali,May,2024,Groundnuts,2500.26,2024-05-31
+Machinga,Ngwelero,Zomba,Mayaka,May,2024,Groundnuts,2820.56,2024-05-31
+Machinga,Thondwe,Zomba,Zomba,May,2024,Groundnuts,3500.5,2024-05-31
+Machinga,Thondwe,Zomba,Thondwe,May,2024,Groundnuts,2500.26,2024-05-31
+Blantyre,Mbulumbuzi,Chiradzulu,Chiradzulu,May,2024,Groundnuts,2437.9025,2024-05-31
+Blantyre,Lunzu,Blantyre,Lunzu,May,2024,Groundnuts,2389.64,2024-05-31
+Blantyre,Mtonda,Blantyre,Limbe,May,2024,Groundnuts,,2024-05-31
+Blantyre,Dwale,Thyolo,Bvumbwe,May,2024,Groundnuts,,2024-05-31
+Blantyre,Nkhonjeni,Thyolo,Luncheza,May,2024,Groundnuts,2425.0,2024-05-31
+Blantyre,Mwanza,Mwanza,Mwanza,May,2024,Groundnuts,2600.0,2024-05-31
+Blantyre,Neno,Neno,Neno,May,2024,Groundnuts,2200.0,2024-05-31
+Blantyre,Nkhulambe,Phalombe,Chiringa,May,2024,Groundnuts,2650.0,2024-05-31
+Blantyre,Naminjiwa,Phalombe,Phalombe,May,2024,Groundnuts,,2024-05-31
+Blantyre,Milonde,Mulanje,Muloza,May,2024,Groundnuts,,2024-05-31
+Shirevalley,Mitole,Chikwawa,Chikhwawa,May,2024,Groundnuts,1500.0,2024-05-31
+Shirevalley,Mikalango,Chikwawa,Ngabu,May,2024,Groundnuts,1600.0,2024-05-31
+Shirevalley,Mbewe,Chikwawa,Nchalo,May,2024,Groundnuts,1550.0,2024-05-31
+Shirevalley,Magoti,Nsanje,Bangula,May,2024,Groundnuts,,2024-05-31
+Shirevalley,Zunde,Nsanje,Nsanje,May,2024,Groundnuts,2100.16,2024-05-31
